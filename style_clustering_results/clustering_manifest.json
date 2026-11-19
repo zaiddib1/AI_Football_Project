@@ -1,0 +1,86 @@
+{
+  "created_at_utc": "2026-11-19T13:29:21.890754+00:00",
+  "source": "/Users/dshi/VScode projects/FootballAIProject/AI_Football_Project/data/players_data-2026_2027.csv",
+  "source_sha256": "a404aac3864ef5a1e51b68af7d8e0b66bb5da505276977aca4c9411f53833b69",
+  "n_records": 1484,
+  "minimum_minutes": 180,
+  "clustering_inputs": [
+    "Sh_p90",
+    "SoT_p90",
+    "Crs_p90",
+    "Int_p90",
+    "TklW_p90",
+    "Fls_p90",
+    "Fld_p90",
+    "Off_p90",
+    "Gls_p90",
+    "Ast_p90"
+  ],
+  "excluded_metadata": [
+    "Age",
+    "Born",
+    "Comp",
+    "Min",
+    "Nation",
+    "Player",
+    "Pos",
+    "Squad",
+    "Target",
+    "source_row"
+  ],
+  "clustering": "KMeans in standardized rate space, n_init=30, random_state=42",
+  "n_clusters": 5,
+  "cluster_names": {
+    "0": "Low-event profiles",
+    "1": "Shots and fouls drawn",
+    "2": "Ball-winning profiles",
+    "3": "High-volume shooters",
+    "4": "Crossing and assist profiles"
+  },
+  "position_labels_used_for_fitting": false,
+  "umap_settings": {
+    "30 neighbors": {
+      "n_neighbors": 30,
+      "min_dist": 0.15,
+      "random_state": 42
+    },
+    "15 neighbors": {
+      "n_neighbors": 15,
+      "min_dist": 0.05,
+      "random_state": 7
+    },
+    "50 neighbors": {
+      "n_neighbors": 50,
+      "min_dist": 0.4,
+      "random_state": 42
+    }
+  },
+  "umap_common_parameters": {
+    "n_components": 2,
+    "metric": "euclidean",
+    "n_epochs": 350,
+    "n_jobs": 1,
+    "compatibility_layout": true
+  },
+  "main_silhouette": 0.11717873416086505,
+  "best_silhouette_k_in_checked_range": 2,
+  "position_ARI": 0.1442395069970361,
+  "position_NMI": 0.2322631895929016,
+  "median_resampling_ARI": 0.8444074395080827,
+  "versions": {
+    "python": "3.14.7",
+    "numpy": "2.5.4",
+    "pandas": "3.1.1",
+    "scipy": "1.18.1",
+    "scikit-learn": "1.9.1",
+    "umap-learn": "0.6.0",
+    "plotly": "7.1.0",
+    "numba": "0.68.1",
+    "pynndescent": "0.7.0",
+    "llvmlite": "0.50.0",
+    "matplotlib": "3.11.2",
+    "seaborn": "0.13.2"
+  },
+  "elapsed_seconds": 15.29767654099851,
+  "interactive_map": "/Users/dshi/VScode projects/FootballAIProject/AI_Football_Project/style_clustering_results/player_styles_umap.html"
+}

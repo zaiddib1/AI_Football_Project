@@ -1,0 +1,20 @@
+{
+  "passed": true,
+  "player_records": 1484,
+  "javascript_errors": [],
+  "external_requests": [],
+  "checks": [
+    "initial rendering",
+    "position colors",
+    "league filter",
+    "450-minute filter",
+    "player search",
+    "empty search",
+    "neighborhood switch",
+    "hover details",
+    "reset",
+    "mobile responsive plot",
+    "mobile controls",
+    "offline"
+  ]
+}

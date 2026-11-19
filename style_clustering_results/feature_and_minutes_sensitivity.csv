@@ -1,0 +1,5 @@
+configuration,n_records,n_features,ARI_to_core_on_common_rows,silhouette_in_own_feature_space,smallest_cluster_n
+"Core rates, log1p then standardize",1484,10,0.5016239679723373,0.11514709557588663,209
+Drop shots on target and goals,1484,8,0.711825907622948,0.13606264466220436,129
+All 16 event rates,1484,16,0.3991736532072422,0.13942640374945,14
+"Core rates, minimum 450 minutes",860,10,0.7221109914976319,0.14304253325362504,52

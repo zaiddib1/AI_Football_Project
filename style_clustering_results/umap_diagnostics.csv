@@ -1,0 +1,4 @@
+layout,n_neighbors,min_dist,random_state,trustworthiness_at_15_neighbors
+30 neighbors,30,0.15,42,0.9025011484582985
+15 neighbors,15,0.05,7,0.9178318521757366
+50 neighbors,50,0.4,42,0.8683323463049162
