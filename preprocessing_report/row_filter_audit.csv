@@ -1,0 +1,8 @@
+decision,removed_n,remaining_n
+Original full CSV,0,2295
+Remove exact duplicate source records,0,2295
+Exclude primary-position goalkeepers,137,2158
+Exclude missing or unsupported primary positions,0,2158
+"Exclude missing, nonfinite, or nonpositive minutes",0,2158
+Retain at least 180 minutes played,674,1484
+Exclude missing player grouping identity,0,1484

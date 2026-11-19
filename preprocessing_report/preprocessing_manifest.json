@@ -1,0 +1,102 @@
+{
+  "created_at_utc": "2026-11-19T13:07:46.789831+00:00",
+  "source": "/Users/dshi/VScode projects/FootballAIProject/AI_Football_Project/data/players_data-2026_2027.csv",
+  "source_sha256": "a404aac3864ef5a1e51b68af7d8e0b66bb5da505276977aca4c9411f53833b69",
+  "source_shape": [
+    2295,
+    102
+  ],
+  "eligible_n": 1484,
+  "minimum_minutes": 180,
+  "target": "Target",
+  "classes": [
+    "DF",
+    "MF",
+    "FW"
+  ],
+  "feature_sets": {
+    "raw_counts": [
+      "Age",
+      "Min",
+      "Comp",
+      "Sh",
+      "SoT",
+      "Crs",
+      "Int",
+      "TklW",
+      "Fls",
+      "Fld",
+      "Off",
+      "Gls",
+      "Ast",
+      "PK",
+      "PKatt",
+      "CrdY",
+      "CrdR",
+      "2CrdY",
+      "OG"
+    ],
+    "per90": [
+      "Age",
+      "Min",
+      "Comp",
+      "Sh_p90",
+      "SoT_p90",
+      "Crs_p90",
+      "Int_p90",
+      "TklW_p90",
+      "Fls_p90",
+      "Fld_p90",
+      "Off_p90",
+      "Gls_p90",
+      "Ast_p90",
+      "PK_p90",
+      "PKatt_p90",
+      "CrdY_p90",
+      "CrdR_p90",
+      "2CrdY_p90",
+      "OG_p90"
+    ]
+  },
+  "count_statistics": [
+    "Sh",
+    "SoT",
+    "Crs",
+    "Int",
+    "TklW",
+    "Fls",
+    "Fld",
+    "Off",
+    "Gls",
+    "Ast",
+    "PK",
+    "PKatt",
+    "CrdY",
+    "CrdR",
+    "2CrdY",
+    "OG"
+  ],
+  "rate_formula": "count * 90 / Min",
+  "cv": "StratifiedGroupKFold(n_splits=5, shuffle=True, random_state=42)",
+  "grouping": "stripped Player names, not exported as predictors",
+  "seed": 42,
+  "convergence_warnings": 0,
+  "versions": {
+    "python": "3.14.7",
+    "pandas": "3.1.1",
+    "numpy": "2.5.4",
+    "scikit-learn": "1.9.1",
+    "matplotlib": "3.11.2",
+    "seaborn": "0.13.2"
+  },
+  "outputs": {
+    "per90": {
+      "path": "/Users/dshi/VScode projects/FootballAIProject/AI_Football_Project/data/players_position_cleaned_min180.csv",
+      "sha256": "40a54a4fdc5c73c44044437ab329e444222171713f38d5b32668acbd2bf044a4"
+    },
+    "raw_counts": {
+      "path": "/Users/dshi/VScode projects/FootballAIProject/AI_Football_Project/data/players_position_raw_counts_min180.csv",
+      "sha256": "e3e0934957535fbd8fc45dafd2d372520016f7353752e6e919c1d6aec3e7b52b"
+    }
+  }
+}

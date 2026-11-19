@@ -1,0 +1,103 @@
+source_column,action,reason
+Rk,Drop,Player/team identifier or arbitrary row rank; Player used privately only for fold grouping.
+Player,Drop,Player/team identifier or arbitrary row rank; Player used privately only for fold grouping.
+Nation,Drop,Nationality is outside the controlled behavioral comparison; not needed as a predictor.
+Pos,Target only,First listed position becomes DF/MF/FW in Target; original label removed.
+Squad,Drop,Player/team identifier or arbitrary row rank; Player used privately only for fold grouping.
+Comp,Retain in both views,"Shared player age, exposure, or league covariate."
+Age,Retain in both views,"Shared player age, exposure, or league covariate."
+Born,Drop,Birth year strongly overlaps Age; no match/reference date supports extra age precision.
+MP,Drop,Additional playing-time or team-context statistic omitted from the explicit feature allowlist; Min supplies common exposure.
+Starts,Drop,Additional playing-time or team-context statistic omitted from the explicit feature allowlist; Min supplies common exposure.
+Min,Retain in both views,"Shared player age, exposure, or league covariate."
+90s,Drop,Derived/redundant or rounded statistic; canonical counts and exact-Min rates avoid duplicate information.
+Gls,Raw view; convert in per90 view,Event count retained once per representation; per90 = count × 90 / Min.
+Ast,Raw view; convert in per90 view,Event count retained once per representation; per90 = count × 90 / Min.
+G+A,Drop,Derived/redundant or rounded statistic; canonical counts and exact-Min rates avoid duplicate information.
+G-PK,Drop,Derived/redundant or rounded statistic; canonical counts and exact-Min rates avoid duplicate information.
+PK,Raw view; convert in per90 view,Event count retained once per representation; per90 = count × 90 / Min.
+PKatt,Raw view; convert in per90 view,Event count retained once per representation; per90 = count × 90 / Min.
+CrdY,Raw view; convert in per90 view,Event count retained once per representation; per90 = count × 90 / Min.
+CrdR,Raw view; convert in per90 view,Event count retained once per representation; per90 = count × 90 / Min.
+G+A-PK,Drop,Derived/redundant or rounded statistic; canonical counts and exact-Min rates avoid duplicate information.
+Rk_stats_keeper,Drop,Player/team identifier or arbitrary row rank; Player used privately only for fold grouping.
+Nation_stats_keeper,Drop,"Keeper-specific variable, structurally missing/irrelevant for outfield cohort."
+Pos_stats_keeper,Drop,Duplicate position label directly reveals the target.
+Comp_stats_keeper,Drop,"Keeper-specific variable, structurally missing/irrelevant for outfield cohort."
+Age_stats_keeper,Drop,"Keeper-specific variable, structurally missing/irrelevant for outfield cohort."
+Born_stats_keeper,Drop,"Keeper-specific variable, structurally missing/irrelevant for outfield cohort."
+MP_stats_keeper,Drop,"Keeper-specific variable, structurally missing/irrelevant for outfield cohort."
+Starts_stats_keeper,Drop,"Keeper-specific variable, structurally missing/irrelevant for outfield cohort."
+Min_stats_keeper,Drop,"Keeper-specific variable, structurally missing/irrelevant for outfield cohort."
+90s_stats_keeper,Drop,"Keeper-specific variable, structurally missing/irrelevant for outfield cohort."
+GA,Drop,"Keeper-specific variable, structurally missing/irrelevant for outfield cohort."
+GA90,Drop,"Keeper-specific variable, structurally missing/irrelevant for outfield cohort."
+SoTA,Drop,"Keeper-specific variable, structurally missing/irrelevant for outfield cohort."
+Saves,Drop,"Keeper-specific variable, structurally missing/irrelevant for outfield cohort."
+Save%,Drop,"Keeper-specific variable, structurally missing/irrelevant for outfield cohort."
+W,Drop,"Keeper-specific variable, structurally missing/irrelevant for outfield cohort."
+D,Drop,"Keeper-specific variable, structurally missing/irrelevant for outfield cohort."
+L,Drop,"Keeper-specific variable, structurally missing/irrelevant for outfield cohort."
+CS,Drop,"Keeper-specific variable, structurally missing/irrelevant for outfield cohort."
+CS%,Drop,"Keeper-specific variable, structurally missing/irrelevant for outfield cohort."
+PKatt_stats_keeper,Drop,"Keeper-specific variable, structurally missing/irrelevant for outfield cohort."
+PKA,Drop,"Keeper-specific variable, structurally missing/irrelevant for outfield cohort."
+PKsv,Drop,"Keeper-specific variable, structurally missing/irrelevant for outfield cohort."
+PKm,Drop,"Keeper-specific variable, structurally missing/irrelevant for outfield cohort."
+Rk_stats_shooting,Drop,Player/team identifier or arbitrary row rank; Player used privately only for fold grouping.
+Nation_stats_shooting,Drop,Merged-table copy; retain the canonical source variable when selected.
+Pos_stats_shooting,Drop,Duplicate position label directly reveals the target.
+Comp_stats_shooting,Drop,Merged-table copy; retain the canonical source variable when selected.
+Age_stats_shooting,Drop,Merged-table copy; retain the canonical source variable when selected.
+Born_stats_shooting,Drop,Merged-table copy; retain the canonical source variable when selected.
+90s_stats_shooting,Drop,Merged-table copy; retain the canonical source variable when selected.
+Gls_stats_shooting,Drop,Merged-table copy; retain the canonical source variable when selected.
+Sh,Raw view; convert in per90 view,Event count retained once per representation; per90 = count × 90 / Min.
+SoT,Raw view; convert in per90 view,Event count retained once per representation; per90 = count × 90 / Min.
+SoT%,Drop,Derived/redundant or rounded statistic; canonical counts and exact-Min rates avoid duplicate information.
+Sh/90,Drop,Derived/redundant or rounded statistic; canonical counts and exact-Min rates avoid duplicate information.
+SoT/90,Drop,Derived/redundant or rounded statistic; canonical counts and exact-Min rates avoid duplicate information.
+G/Sh,Drop,Derived/redundant or rounded statistic; canonical counts and exact-Min rates avoid duplicate information.
+G/SoT,Drop,Derived/redundant or rounded statistic; canonical counts and exact-Min rates avoid duplicate information.
+PK_stats_shooting,Drop,Merged-table copy; retain the canonical source variable when selected.
+PKatt_stats_shooting,Drop,Merged-table copy; retain the canonical source variable when selected.
+Rk_stats_playing_time,Drop,Player/team identifier or arbitrary row rank; Player used privately only for fold grouping.
+Nation_stats_playing_time,Drop,Merged-table copy; retain the canonical source variable when selected.
+Pos_stats_playing_time,Drop,Duplicate position label directly reveals the target.
+Comp_stats_playing_time,Drop,Merged-table copy; retain the canonical source variable when selected.
+Age_stats_playing_time,Drop,Merged-table copy; retain the canonical source variable when selected.
+Born_stats_playing_time,Drop,Merged-table copy; retain the canonical source variable when selected.
+MP_stats_playing_time,Drop,Merged-table copy; retain the canonical source variable when selected.
+Min_stats_playing_time,Drop,Merged-table copy; retain the canonical source variable when selected.
+Mn/MP,Drop,Additional playing-time or team-context statistic omitted from the explicit feature allowlist; Min supplies common exposure.
+Min%,Drop,Additional playing-time or team-context statistic omitted from the explicit feature allowlist; Min supplies common exposure.
+90s_stats_playing_time,Drop,Merged-table copy; retain the canonical source variable when selected.
+Starts_stats_playing_time,Drop,Merged-table copy; retain the canonical source variable when selected.
+Mn/Start,Drop,Additional playing-time or team-context statistic omitted from the explicit feature allowlist; Min supplies common exposure.
+Compl,Drop,Additional playing-time or team-context statistic omitted from the explicit feature allowlist; Min supplies common exposure.
+Subs,Drop,Additional playing-time or team-context statistic omitted from the explicit feature allowlist; Min supplies common exposure.
+Mn/Sub,Drop,Additional playing-time or team-context statistic omitted from the explicit feature allowlist; Min supplies common exposure.
+unSub,Drop,Additional playing-time or team-context statistic omitted from the explicit feature allowlist; Min supplies common exposure.
+PPM,Drop,Additional playing-time or team-context statistic omitted from the explicit feature allowlist; Min supplies common exposure.
+onG,Drop,Additional playing-time or team-context statistic omitted from the explicit feature allowlist; Min supplies common exposure.
+onGA,Drop,Additional playing-time or team-context statistic omitted from the explicit feature allowlist; Min supplies common exposure.
++/-,Drop,Additional playing-time or team-context statistic omitted from the explicit feature allowlist; Min supplies common exposure.
++/-90,Drop,Additional playing-time or team-context statistic omitted from the explicit feature allowlist; Min supplies common exposure.
+On-Off,Drop,Additional playing-time or team-context statistic omitted from the explicit feature allowlist; Min supplies common exposure.
+Rk_stats_misc,Drop,Player/team identifier or arbitrary row rank; Player used privately only for fold grouping.
+Nation_stats_misc,Drop,Merged-table copy; retain the canonical source variable when selected.
+Pos_stats_misc,Drop,Duplicate position label directly reveals the target.
+Comp_stats_misc,Drop,Merged-table copy; retain the canonical source variable when selected.
+Age_stats_misc,Drop,Merged-table copy; retain the canonical source variable when selected.
+Born_stats_misc,Drop,Merged-table copy; retain the canonical source variable when selected.
+90s_stats_misc,Drop,Merged-table copy; retain the canonical source variable when selected.
+CrdY_stats_misc,Drop,Merged-table copy; retain the canonical source variable when selected.
+CrdR_stats_misc,Drop,Merged-table copy; retain the canonical source variable when selected.
+2CrdY,Raw view; convert in per90 view,Event count retained once per representation; per90 = count × 90 / Min.
+Fls,Raw view; convert in per90 view,Event count retained once per representation; per90 = count × 90 / Min.
+Fld,Raw view; convert in per90 view,Event count retained once per representation; per90 = count × 90 / Min.
+Off,Raw view; convert in per90 view,Event count retained once per representation; per90 = count × 90 / Min.
+Crs,Raw view; convert in per90 view,Event count retained once per representation; per90 = count × 90 / Min.
+Int,Raw view; convert in per90 view,Event count retained once per representation; per90 = count × 90 / Min.
+TklW,Raw view; convert in per90 view,Event count retained once per representation; per90 = count × 90 / Min.
+OG,Raw view; convert in per90 view,Event count retained once per representation; per90 = count × 90 / Min.
