@@ -1,5 +1,5 @@
 {
-  "created_at_utc": "2026-11-19T13:29:21.890754+00:00",
+  "created_at_utc": "2026-11-21T18:18:20.450860+00:00",
   "source": "/Users/dshi/VScode projects/FootballAIProject/AI_Football_Project/data/players_data-2026_2027.csv",
   "source_sha256": "a404aac3864ef5a1e51b68af7d8e0b66bb5da505276977aca4c9411f53833b69",
   "n_records": 1484,
@@ -81,6 +81,6 @@
     "matplotlib": "3.11.2",
     "seaborn": "0.13.2"
   },
-  "elapsed_seconds": 15.29767654099851,
+  "elapsed_seconds": 15.276443334005307,
   "interactive_map": "/Users/dshi/VScode projects/FootballAIProject/AI_Football_Project/style_clustering_results/player_styles_umap.html"
 }
