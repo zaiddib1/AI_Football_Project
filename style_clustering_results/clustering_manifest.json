@@ -1,6 +1,6 @@
 {
-  "created_at_utc": "2026-11-19T13:29:21.890754+00:00",
-  "source": "/Users/dshi/VScode projects/FootballAIProject/AI_Football_Project/data/players_data-2026_2027.csv",
+  "created_at_utc": "2026-11-21T18:22:46.351926+00:00",
+  "source": "/Users/zaiddib/Desktop/Artificial Intelligence Spain/Final/data/players_data-2026_2027.csv",
   "source_sha256": "a404aac3864ef5a1e51b68af7d8e0b66bb5da505276977aca4c9411f53833b69",
   "n_records": 1484,
   "minimum_minutes": 180,
@@ -68,19 +68,19 @@
   "position_NMI": 0.2322631895929016,
   "median_resampling_ARI": 0.8444074395080827,
   "versions": {
-    "python": "3.14.7",
-    "numpy": "2.5.4",
-    "pandas": "3.1.1",
-    "scipy": "1.18.1",
-    "scikit-learn": "1.9.1",
+    "python": "3.10.13",
+    "numpy": "1.26.4",
+    "pandas": "2.3.2",
+    "scipy": "1.15.3",
+    "scikit-learn": "1.7.2",
     "umap-learn": "0.6.0",
     "plotly": "7.1.0",
-    "numba": "0.68.1",
+    "numba": "0.60.0",
     "pynndescent": "0.7.0",
-    "llvmlite": "0.50.0",
-    "matplotlib": "3.11.2",
+    "llvmlite": "0.43.0",
+    "matplotlib": "3.10.6",
     "seaborn": "0.13.2"
   },
-  "elapsed_seconds": 15.29767654099851,
-  "interactive_map": "/Users/dshi/VScode projects/FootballAIProject/AI_Football_Project/style_clustering_results/player_styles_umap.html"
+  "elapsed_seconds": 8.222171542001888,
+  "interactive_map": "/Users/zaiddib/Desktop/Artificial Intelligence Spain/Final/style_clustering_results/player_styles_umap.html"
 }
