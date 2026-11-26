@@ -1,0 +1,81 @@
+{
+  "status": "collected_not_imported",
+  "collected_at_utc": "2026-11-21T18:43:10.304828+00:00",
+  "season": "2026/2027",
+  "directories": [
+    "/Users/dshi/VScode projects/FootballAIProject/AI_Football_Project/data/whoscored_sources/epl_20261121T184011534025Z",
+    "/Users/dshi/VScode projects/FootballAIProject/AI_Football_Project/data/whoscored_sources/laliga_20261121T184049860263Z",
+    "/Users/dshi/VScode projects/FootballAIProject/AI_Football_Project/data/whoscored_sources/bundesliga_20261121T184127120911Z",
+    "/Users/dshi/VScode projects/FootballAIProject/AI_Football_Project/data/whoscored_sources/seriea_20261121T184229957221Z",
+    "/Users/dshi/VScode projects/FootballAIProject/AI_Football_Project/data/whoscored_sources/ligue1_20261121T184307086040Z"
+  ],
+  "reporting_cutoff_date": null,
+  "original_experiment_modified": false,
+  "rows_by_league": {
+    "de Bundesliga": 425,
+    "eng Premier League": 464,
+    "es La Liga": 494,
+    "fr Ligue 1": 436,
+    "it Serie A": 507
+  },
+  "note": "Current source snapshot; not merged into the November 2 experiment.",
+  "outputs": {
+    "totals": {
+      "file": "/Users/dshi/VScode projects/FootballAIProject/AI_Football_Project/data/players_advanced_whoscored_2026_2027_totals.csv",
+      "rows": 2326,
+      "columns": [
+        "source_player_id",
+        "Player",
+        "Squad",
+        "Comp",
+        "Season",
+        "MP",
+        "Min",
+        "key_passes",
+        "passes",
+        "accurate_passes",
+        "pass_completion_pct",
+        "long_balls",
+        "successful_dribbles",
+        "aerial_duels_won",
+        "clearances",
+        "blocks",
+        "dispossessions",
+        "poor_controls"
+      ],
+      "sha256": "f879d39c29f7de67ab11ca6033832e233c27fdb88f8e8fccb96b85eb1efb1ac2"
+    },
+    "per90": {
+      "file": "/Users/dshi/VScode projects/FootballAIProject/AI_Football_Project/data/players_advanced_whoscored_2026_2027_per90.csv",
+      "rows": 2326,
+      "columns": [
+        "source_player_id",
+        "Player",
+        "Squad",
+        "Comp",
+        "Season",
+        "MP",
+        "Min",
+        "key_passes_p90",
+        "passes_p90",
+        "accurate_passes_p90",
+        "pass_completion_pct",
+        "long_balls_p90",
+        "successful_dribbles_p90",
+        "aerial_duels_won_p90",
+        "clearances_p90",
+        "blocks_p90",
+        "dispossessions_p90",
+        "poor_controls_p90"
+      ],
+      "sha256": "06a9b276cde57e6207168b7c946813000d627d0e2d1c40d60015493387c4a57f"
+    }
+  },
+  "validation": {
+    "tests_passed": 28,
+    "total_rows": 2326,
+    "integer_count_totals_verified": true,
+    "per90_calculations_verified": true,
+    "original_csv_hashes_unchanged": true
+  }
+}

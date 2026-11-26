@@ -1,0 +1,1269 @@
+official_source_row,Player,Squad,Comp,Pos,status
+0,Brenden Aaronson,Leeds United,eng Premier League,MF,included
+2,James Abankwah,Udinese,it Serie A,DF,included
+6,Himad Abdelli,Marseille,fr Ligue 1,MF,nationality_conflict
+7,Mohamed Abdelmonem,Nice,fr Ligue 1,DF,included
+10,Matthis Abline,Monaco,fr Ligue 1,"FW,MF",included
+11,Abner,Lyon,fr Ligue 1,DF,unmatched_identity
+17,Joshua Acheampong,Chelsea,eng Premier League,DF,unmatched_identity
+19,Akor Adams,Venezia,it Serie A,FW,included
+20,Ché Adams,Torino,it Serie A,"FW,MF",included
+21,Tyler Adams,Bournemouth,eng Premier League,MF,included
+22,Junior Adamu,Schalke 04,de Bundesliga,"FW,MF",included
+25,Martin Adeline,Hamburger SV,de Bundesliga,MF,included
+26,Karim Adeyemi,Barcelona,es La Liga,"MF,FW",included
+27,Nathaniel Adjei,Lorient,fr Ligue 1,DF,included
+29,Vasilije Adžić,Sassuolo,it Serie A,MF,included
+30,Michel Aebischer,Union Berlin,de Bundesliga,MF,included
+31,David Affengruber,Elche,es La Liga,DF,included
+32,David Affengruber,Fulham,eng Premier League,DF,included
+34,Lucien Agoume,Sevilla,es La Liga,MF,included
+35,Marc Aguado,Elche,es La Liga,MF,included
+36,Nayef Aguerd,Marseille,fr Ligue 1,DF,included
+37,Ruben Aguilar,Lens,fr Ligue 1,"MF,DF",included
+38,Naouirou Ahamada,Auxerre,fr Ligue 1,MF,included
+40,Amar Ahmed,Lecce,it Serie A,FW,unmatched_identity
+42,Ola Aina,Nottingham,eng Premier League,"MF,DF",included
+43,Abdelhamid Ait Boudlal,Rennes,fr Ligue 1,DF,included
+45,Semi Ajayi,Hull City,eng Premier League,DF,included
+46,Kristoffer Ajer,Brentford,eng Premier League,DF,included
+47,Ludovic Ajorque,Brest,fr Ligue 1,FW,included
+48,Manuel Akanji,Inter,it Serie A,DF,included
+49,Ilias Akhomach,Villarreal,es La Liga,"MF,FW",nationality_conflict
+50,Ebenezer Akinsanmiro,Monza,it Serie A,MF,included
+51,Maghnes Akliouche,Paris SG,fr Ligue 1,"FW,MF",included
+52,Clément Akpa,Auxerre,fr Ligue 1,DF,included
+55,Kerim Alajbegović,Juventus,it Serie A,MF,included
+61,Trent Alexander-Arnold,Real Madrid,es La Liga,DF,included
+67,Jim Allevinah,Angers,fr Ligue 1,"MF,FW",included
+70,Marcos Alonso,Celta Vigo,es La Liga,DF,included
+71,Adrià Altimira,Dep. A Coruña,es La Liga,"MF,DF",included
+73,Hugo Álvarez,Celta Vigo,es La Liga,"FW,MF",included
+74,Julián Álvarez,Atlético Madrid,es La Liga,FW,included
+75,Yeray Álvarez,Athletic Club,es La Liga,DF,included
+78,Lorenzo Amatucci,Dep. A Coruña,es La Liga,MF,included
+79,Aurèle Amenda,Coventry City,eng Premier League,DF,included
+81,Nadiem Amiri,Mainz 05,de Bundesliga,MF,included
+86,Mohamed Amoura,Nice,fr Ligue 1,MF,unmatched_identity
+87,Ethan Ampadu,Leeds United,eng Premier League,MF,included
+89,Elliot Anderson,Manchester City,eng Premier League,MF,included
+90,Benjamin André,Lille,fr Ligue 1,MF,included
+93,Miguel Ángel Sierra,Sevilla,es La Liga,"MF,FW",unmatched_identity
+95,Frank Anguissa,Napoli,it Serie A,MF,included
+96,Nilson Angulo,Sunderland,eng Premier League,MF,included
+99,Jaidon Anthony,Brentford,eng Premier League,MF,included
+100,Waldemar Anton,Dortmund,de Bundesliga,DF,included
+102,Kyllian Antonio,Lens,fr Ligue 1,DF,included
+103,Antony,Real Betis,es La Liga,"MF,FW",included
+105,Genesis Antwi,Strasbourg,fr Ligue 1,DF,included
+106,Adil Aouchiche,Schalke 04,de Bundesliga,MF,nationality_conflict
+107,Jon Aramburu,Real Sociedad,es La Liga,DF,included
+109,Ronald Araújo,Liverpool,eng Premier League,DF,included
+110,Cameron Archer,Auxerre,fr Ligue 1,FW,included
+111,Carlens Arcus,Angers,fr Ligue 1,DF,included
+112,Jesús Areso,Athletic Club,es La Liga,DF,included
+113,Iñigo Arguibide,Osasuna,es La Liga,DF,included
+115,Harrison Armstrong,Everton,eng Premier League,MF,included
+117,Arthur,Werder Bremen,de Bundesliga,"DF,MF",included
+118,Fisnik Asllani,Hoffenheim,de Bundesliga,"MF,FW",nationality_conflict
+120,Iago Aspas,Celta Vigo,es La Liga,FW,included
+122,Otavio Ataide,Paris FC,fr Ligue 1,DF,unmatched_identity
+123,Zachary Athekame,Lyon,fr Ligue 1,DF,included
+124,Arthur Atta,Fiorentina,it Serie A,MF,included
+126,Pierre-Emerick Aubameyang,Dep. A Coruña,es La Liga,FW,included
+128,Carlos Augusto,Inter,it Serie A,"MF,DF",included
+129,Yann Aurel Bisseck,Inter,it Serie A,DF,unmatched_identity
+131,Leon Avdullahu,Hoffenheim,de Bundesliga,MF,nationality_conflict
+132,Arthur Avom,Lorient,fr Ligue 1,MF,included
+133,Taiwo Awoniyi,Coventry City,eng Premier League,FW,included
+134,Yasin Ayari,Brighton,eng Premier League,MF,included
+136,Neil El Aynaoui,RB Leipzig,de Bundesliga,MF,nationality_conflict
+138,Ilyas Azizi,Toulouse,fr Ligue 1,MF,included
+140,Ivan Azón,Getafe,es La Liga,"FW,MF",included
+144,Felix Bacher,Lyon,fr Ligue 1,DF,included
+149,Álex Baena,Atlético Madrid,es La Liga,"MF,FW",included
+153,Darryl Bakola,Sassuolo,it Serie A,MF,included
+154,Adam Bakoune,Monza,it Serie A,MF,included
+155,Ridle Baku,RB Leipzig,de Bundesliga,DF,included
+156,Dilane Bakwa,Lille,fr Ligue 1,MF,included
+157,Tommaso Baldanzi,Genoa,it Serie A,MF,included
+160,Ibrahima Baldé,Lorient,fr Ligue 1,FW,included
+162,Leonardo Balerdi,Roma,it Serie A,DF,current_source_exposure_mismatch
+163,Daniel Ballard,Sunderland,eng Premier League,DF,unmatched_identity
+164,Iván Balliu,Rayo Vallecano,es La Liga,DF,included
+167,Rayan Bamba,Le Mans,fr Ligue 1,"MF,DF",included
+168,Noahkai Banks,Augsburg,de Bundesliga,DF,nationality_conflict
+169,Ezechiel Banzuzi,RB Leipzig,de Bundesliga,MF,included
+171,Bradley Barcola,Liverpool,eng Premier League,MF,included
+174,Enzo Bardeli,Levante,es La Liga,MF,included
+175,Nicolò Barella,Inter,it Serie A,MF,included
+177,Ross Barkley,Aston Villa,eng Premier League,MF,included
+178,Harvey Barnes,Newcastle,eng Premier League,MF,included
+179,Ander Barrenetxea,Real Sociedad,es La Liga,MF,included
+180,Pablo Barrios,Atlético Madrid,es La Liga,MF,included
+181,Thierno Barry,Everton,eng Premier League,FW,included
+182,Davide Bartesaghi,Milan,it Serie A,MF,included
+183,Marc Bartra,Real Betis,es La Liga,DF,included
+185,Toma Bašić,Venezia,it Serie A,MF,included
+186,Calvin Bassey,Fulham,eng Premier League,DF,included
+187,Alessandro Bastoni,Inter,it Serie A,DF,included
+192,Martin Baturina,Como,it Serie A,MF,included
+194,Elias Baum,Frankfurt,de Bundesliga,"DF,MF",included
+200,Sheraldo Becker,Mainz 05,de Bundesliga,FW,nationality_conflict
+201,Timo Becker,Schalke 04,de Bundesliga,DF,included
+203,Hannes Behrens,Augsburg,de Bundesliga,"MF,DF",unmatched_identity
+204,Maximilian Beier,Dortmund,de Bundesliga,MF,included
+205,Luken Beitia,Real Sociedad,es La Liga,DF,included
+206,Reda Belahyane,Lazio,it Serie A,MF,nationality_conflict
+208,Rafik Belghali,Torino,it Serie A,"MF,DF",included
+210,Yassin Belkhdim,Angers,fr Ligue 1,MF,included
+212,Raoul Bellanova,Atalanta,it Serie A,DF,included
+213,Héctor Bellerín,Real Betis,es La Liga,DF,included
+214,Jobe Bellingham,Dortmund,de Bundesliga,MF,included
+215,Jude Bellingham,Real Madrid,es La Liga,MF,included
+216,Bachir Belloumi,Hull City,eng Premier League,MF,unmatched_identity
+217,Jeanuël Belocian,Racing Sant,es La Liga,DF,included
+221,Nabil Bentaleb,Lille,fr Ligue 1,MF,included
+222,Rodrigo Bentancur,Tottenham,eng Premier League,MF,included
+225,Domenico Berardi,Sassuolo,it Serie A,"MF,FW",included
+226,Yuri Berchiche,Athletic Club,es La Liga,DF,included
+227,Álex Berenguer,Athletic Club,es La Liga,MF,included
+228,Sander Berge,Fulham,eng Premier League,MF,included
+232,Adrian Bernabe,Parma,it Serie A,MF,included
+233,Facundo Bernal,Real Betis,es La Liga,MF,included
+234,Marc Bernal,Barcelona,es La Liga,MF,included
+235,Gabin Bernardeau,Lorient,fr Ligue 1,MF,included
+236,Federico Bernardeschi,Bologna,it Serie A,"MF,FW",included
+238,Lorenzo Bernasconi,Atalanta,it Serie A,DF,included
+241,Jan-Niklas Beste,Freiburg,de Bundesliga,MF,unmatched_identity
+246,Mads Bidstrup,Lyon,fr Ligue 1,MF,included
+251,El Bilal Touré,Parma,it Serie A,"MF,FW",current_source_exposure_mismatch
+252,Samuele Birindelli,Monza,it Serie A,"MF,DF",included
+257,Antonio Blanco,Alavés,es La Liga,MF,included
+258,Ludovic Blas,Rennes,fr Ligue 1,"MF,FW",included
+260,Oscar Bobb,Fulham,eng Premier League,MF,included
+266,Jayden Bogle,Leeds United,eng Premier League,MF,included
+268,Noa Boisse,Le Mans,fr Ligue 1,DF,included
+269,Hugo Bolin,Gladbach,de Bundesliga,"MF,FW",included
+274,Sebastiaan Bornauw,Hamburger SV,de Bundesliga,DF,included
+276,Olivier Boscagli,Brighton,eng Premier League,"DF,MF",included
+278,Sven Botman,Newcastle,eng Premier League,DF,included
+280,Kaïl Boudache,Lyon,fr Ligue 1,"MF,FW",included
+281,Hicham Boudaoui,Nice,fr Ligue 1,MF,included
+284,Adil Bourabaa,Le Mans,fr Ligue 1,MF,included
+286,Kieron Bowie,Sassuolo,it Serie A,FW,included
+287,Lucas Boyé,Alavés,es La Liga,FW,included
+288,Enzo Boyomo,Osasuna,es La Liga,DF,included
+289,Gabriele Bracaglia,Frosinone,it Serie A,DF,included
+290,Calvin Brackelmann,Augsburg,de Bundesliga,DF,included
+291,Daniel Bragança,Torino,it Serie A,MF,included
+294,Jarrad Branthwaite,Everton,eng Premier League,DF,included
+295,Lilian Brassier,Frankfurt,de Bundesliga,DF,included
+297,Gleison Bremer,Juventus,it Serie A,DF,unmatched_identity
+298,Marco Brescianini,Fiorentina,it Serie A,MF,included
+299,Lucas Bretelle,Le Mans,fr Ligue 1,MF,included
+300,Abel Bretones,Osasuna,es La Liga,DF,included
+301,Sascha Britschgi,Parma,it Serie A,MF,current_source_exposure_mismatch
+302,Brian Brobbey,Sunderland,eng Premier League,FW,included
+304,Nathaniel Brown,Bayern Munich,de Bundesliga,"DF,MF",included
+305,Brugui,Levante,es La Liga,"MF,FW",unmatched_identity
+306,Paris Brunner,Monaco,fr Ligue 1,FW,included
+307,Kaiki Bruno,Como,it Serie A,DF,unmatched_identity
+308,Lucas Buadés,Le Mans,fr Ligue 1,MF,included
+309,Tajon Buchanan,Villarreal,es La Liga,MF,included
+310,Ante Budimir,Osasuna,es La Liga,FW,included
+311,Emi Buendía,Aston Villa,eng Premier League,"MF,FW",unmatched_identity
+313,Andrija Bulatović,Lens,fr Ligue 1,MF,included
+314,Marius Bülter,Köln,de Bundesliga,"FW,MF",included
+315,Facundo Buonanotte,Elche,es La Liga,MF,included
+316,Livan Burcu,Union Berlin,de Bundesliga,"MF,FW",nationality_conflict
+317,Wouter Burger,Hoffenheim,de Bundesliga,MF,included
+318,Jonathan Burkardt,Frankfurt,de Bundesliga,FW,included
+321,Gianluca Busio,Venezia,it Serie A,MF,included
+324,Leandro Cabrera,Espanyol,es La Liga,DF,included
+325,Alessio Cacciamani,Torino,it Serie A,"MF,DF",included
+326,Sebastián Cáceres,Celta Vigo,es La Liga,DF,included
+327,Anthony Caci,Mainz 05,de Bundesliga,MF,included
+328,Noah Cadiou,Lorient,fr Ligue 1,MF,nationality_conflict
+329,Moisés Caicedo,Chelsea,eng Premier League,MF,included
+332,Riccardo Calafiori,Arsenal,eng Premier League,DF,included
+333,Álex Calatrava,Espanyol,es La Liga,MF,unmatched_identity
+335,Duje Ćaleta-Car,Sassuolo,it Serie A,DF,included
+336,Hakan Çalhanoğlu,Inter,it Serie A,MF,included
+337,Giacomo Calò,Frosinone,it Serie A,MF,included
+338,Lucas Calodat,Le Mans,fr Ligue 1,MF,included
+339,Gabriele Calvani,Frosinone,it Serie A,DF,included
+340,Dominic Calvert-Lewin,Leeds United,eng Premier League,FW,included
+342,Adama Camara,Paris FC,fr Ligue 1,"DF,MF",nationality_conflict
+343,Lamine Camara,Monaco,fr Ligue 1,MF,included
+344,Mahdi Camara,Rennes,fr Ligue 1,MF,included
+345,Ousmane Camara,Angers,fr Ligue 1,DF,nationality_conflict
+347,Eduardo Camavinga,Real Madrid,es La Liga,MF,included
+348,Nicolò Cambiaghi,Bologna,it Serie A,"MF,FW",included
+351,Sergio Camello,Rayo Vallecano,es La Liga,"FW,MF",included
+352,Cole Campbell,Elversberg,de Bundesliga,MF,included
+353,Peio Canales,Athletic Club,es La Liga,MF,included
+354,Sergio Canales,Racing Sant,es La Liga,MF,included
+355,Matteo Cancellieri,Lazio,it Serie A,FW,included
+356,João Cancelo,Barcelona,es La Liga,DF,included
+358,Jaydee Canvot,Crystal Palace,eng Premier League,DF,included
+359,Nicolás Capaldo,Hamburger SV,de Bundesliga,DF,included
+361,Maxence Caqueret,Como,it Serie A,MF,included
+362,Andrea Carboni,Monza,it Serie A,DF,included
+365,Sergi Cardona,Villarreal,es La Liga,DF,included
+366,Johnny Cardoso,Atlético Madrid,es La Liga,MF,included
+367,Diego Carlos,Parma,it Serie A,DF,included
+371,Sergio Carreira,Celta Vigo,es La Liga,MF,included
+377,Nicolò Casale,Bologna,it Serie A,DF,included
+378,Matty Cash,Aston Villa,eng Premier League,DF,included
+380,Cristian Cásseres Jr.,Toulouse,fr Ligue 1,MF,unmatched_identity
+381,Timothy Castagne,Fulham,eng Premier League,DF,included
+382,Santiago Castaneda,Paderborn 07,de Bundesliga,MF,included
+383,Castrin,Sevilla,es La Liga,DF,unmatched_identity
+384,Jonny Castro,Alavés,es La Liga,DF,unmatched_identity
+385,Santiago Castro,Roma,it Serie A,FW,included
+386,Alessio Castro-Montes,Köln,de Bundesliga,DF,included
+389,Catena,Osasuna,es La Liga,DF,unmatched_identity
+391,Zeki Çelik,Juventus,it Serie A,"DF,MF",included
+392,Lucas Cepeda,Elche,es La Liga,"FW,MF",included
+393,Julian Chabot,Stuttgart,de Bundesliga,DF,unmatched_identity
+394,Fares Chaïbi,Frankfurt,de Bundesliga,MF,included
+395,Giorgi Chakvetadze,Udinese,it Serie A,MF,included
+396,Trevoh Chalobah,Como,it Serie A,DF,included
+398,Shea Charles,Fulham,eng Premier League,MF,included
+399,Pep Chavarría,Chelsea,eng Premier League,MF,included
+401,Chema,Brighton,eng Premier League,MF,unmatched_identity
+402,Samir Chergui,Paris FC,fr Ligue 1,DF,nationality_conflict
+404,Rayan Cherki,Manchester City,eng Premier League,MF,included
+406,Matteo Chichella,Frosinone,it Serie A,MF,unmatched_identity
+409,Joris Chotard,Brest,fr Ligue 1,MF,included
+410,Andreas Christensen,Barcelona,es La Liga,DF,included
+411,Ryan Christie,Bournemouth,eng Premier League,MF,included
+413,Samuel Chukwueze,Milan,it Serie A,MF,included
+414,Chupete,Málaga,es La Liga,FW,unmatched_identity
+415,Víctor Chust,Elche,es La Liga,DF,included
+418,Simone Cinquegrano,Sassuolo,it Serie A,DF,included
+419,Pathé Ciss,Rayo Vallecano,es La Liga,"MF,DF",included
+420,Alphadjo Cissè,Milan,it Serie A,MF,included
+422,Giorgio Cittadini,Frosinone,it Serie A,DF,included
+425,Jonathan Clauss,Nice,fr Ligue 1,MF,included
+426,Saúl Coco,Torino,it Serie A,DF,included
+429,Nnamdi Collins,Frankfurt,de Bundesliga,DF,included
+431,Lorenzo Colombo,Genoa,it Serie A,FW,included
+432,Andrea Colpani,Monza,it Serie A,"MF,FW",included
+433,Levi Colwill,Chelsea,eng Premier League,DF,included
+434,Eray Cömert,Torino,it Serie A,DF,included
+435,Santi Comesaña,Villarreal,es La Liga,MF,included
+437,Pietro Comuzzo,Torino,it Serie A,DF,included
+438,Francisco Conceição,Juventus,it Serie A,MF,included
+440,Bambasé Conté,Hoffenheim,de Bundesliga,"MF,FW",included
+441,Lewis Cook,Bournemouth,eng Premier League,MF,included
+442,Diego Coppola,Paris FC,fr Ligue 1,DF,included
+445,Félix Correia,Sevilla,es La Liga,MF,included
+451,Danny da Costa,Mainz 05,de Bundesliga,DF,included
+453,Costinha,Brighton,eng Premier League,DF,included
+454,Vladimír Coufal,Hoffenheim,de Bundesliga,DF,included
+455,Abdoul Coulibaly,Strasbourg,fr Ligue 1,DF,unmatched_identity
+456,Djibril Coulibaly,Nice,fr Ligue 1,MF,included
+457,Lassana Coulibaly,Lecce,it Serie A,"MF,FW",included
+461,Yan Couto,Como,it Serie A,DF,included
+463,Lewie Coyle,Hull City,eng Premier League,DF,included
+465,Charlie Cresswell,Rennes,fr Ligue 1,DF,included
+466,Bryan Cristante,Roma,it Serie A,MF,current_source_exposure_mismatch
+467,Matt Crooks,Hull City,eng Premier League,MF,included
+469,Pau Cubarsí,Barcelona,es La Liga,DF,included
+470,Cucho,Real Betis,es La Liga,FW,unmatched_identity
+471,Marc Cucurella,Real Madrid,es La Liga,DF,included
+473,Mickaël Cuisance,Lens,fr Ligue 1,MF,unmatched_identity
+474,Matheus Cunha,Manchester Utd,eng Premier League,"FW,MF",included
+475,Laurin Curda,Paderborn 07,de Bundesliga,MF,included
+477,Lucas Da Cunha,Como,it Serie A,MF,included
+480,Adam Daghim,Hoffenheim,de Bundesliga,MF,included
+485,Diogo Dalot,Manchester Utd,eng Premier League,DF,included
+486,Mikkel Damsgaard,Brentford,eng Premier League,MF,included
+488,Arnaut Danjuma,Valencia,es La Liga,"FW,MF",included
+489,Kévin Danois,Auxerre,fr Ligue 1,MF,included
+490,Kevin Danso,Sunderland,eng Premier League,DF,included
+491,Matteo Darmian,Bologna,it Serie A,DF,included
+493,Jay Dasilva,Coventry City,eng Premier League,"DF,MF",nationality_conflict
+495,Jonathan David,Atlético Madrid,es La Liga,FW,included
+498,Alphonso Davies,Bayern Munich,de Bundesliga,DF,included
+501,Keinan Davis,Udinese,it Serie A,FW,included
+502,Leif Davis,Ipswich Town,eng Premier League,"DF,MF",included
+503,Kevin De Bruyne,Napoli,it Serie A,MF,included
+506,Maxim De Cuyper,Brighton,eng Premier League,MF,included
+507,Charles De Ketelaere,Atalanta,it Serie A,"FW,MF",included
+511,Koni De Winter,Milan,it Serie A,DF,included
+512,Amar Dedić,Newcastle,eng Premier League,DF,included
+513,Alessandro Deiola,Cagliari,it Serie A,"DF,MF",included
+517,Liam Delap,Nottingham,eng Premier League,FW,included
+520,Enrico Delprato,Parma,it Serie A,"DF,MF",current_source_exposure_mismatch
+521,Olivier Deman,Werder Bremen,de Bundesliga,DF,included
+522,Pape Demba Diop,Strasbourg,fr Ligue 1,MF,unmatched_identity
+525,Ermedin Demirović,Stuttgart,de Bundesliga,"FW,MF",included
+527,Branco van den Boomen,Angers,fr Ligue 1,MF,included
+528,Nelson Deossa,Real Betis,es La Liga,"MF,FW",included
+531,Kiernan Dewsbury-Hall,Everton,eng Premier League,MF,included
+532,Giovanni Di Lorenzo,Napoli,it Serie A,"DF,MF",included
+536,Moussa Diaby,Leverkusen,de Bundesliga,MF,included
+537,Mouctar Diakhaby,Valencia,es La Liga,DF,included
+539,Amad Diallo,Manchester Utd,eng Premier League,MF,included
+540,Habib Diallo,Le Mans,fr Ligue 1,FW,included
+546,Assane Diao,Como,it Serie A,MF,included
+549,Rúben Dias,Manchester City,eng Premier League,DF,included
+551,Kandet Diawara,Troyes,fr Ligue 1,"MF,FW",nationality_conflict
+556,Junior Diaz,Troyes,fr Ligue 1,DF,included
+557,Luis Díaz,Bayern Munich,de Bundesliga,MF,included
+558,Pedro Díaz,Rayo Vallecano,es La Liga,MF,included
+562,Eric Dier,Monaco,fr Ligue 1,DF,included
+564,Kevin Diks,Gladbach,de Bundesliga,DF,nationality_conflict
+565,Federico Dimarco,Inter,it Serie A,MF,included
+567,Junior Dina Ebimbe,Schalke 04,de Bundesliga,"DF,MF",nationality_conflict
+568,Eren Dinkçi,Werder Bremen,de Bundesliga,"MF,FW",nationality_conflict
+569,Ousmane Diomande,Nottingham,eng Premier League,DF,included
+571,Yan Diomandé,Real Madrid,es La Liga,MF,included
+573,Issa Diop,Ipswich Town,eng Premier League,DF,nationality_conflict
+575,Mouhamed Diop,Troyes,fr Ligue 1,MF,included
+576,Sofiane Diop,Nice,fr Ligue 1,MF,nationality_conflict
+578,Andy Diouf,Inter,it Serie A,MF,included
+581,Axel Disasi,Crystal Palace,eng Premier League,DF,included
+584,Djené,Getafe,es La Liga,DF,unmatched_identity
+588,Ritsu Doan,Frankfurt,de Bundesliga,MF,included
+590,Danilho Doekhi,Lazio,it Serie A,DF,included
+591,Josh Doig,Sassuolo,it Serie A,DF,included
+592,Jeremy Doku,Manchester City,eng Premier League,"MF,FW",included
+593,Tyrhys Dolan,Espanyol,es La Liga,MF,included
+601,Carlos Dotor,Málaga,es La Liga,"MF,FW",included
+603,Désiré Doué,Paris SG,fr Ligue 1,FW,included
+606,Ismaël Doukouré,Strasbourg,fr Ligue 1,DF,included
+607,Kamory Doumbia,Brest,fr Ligue 1,MF,included
+608,Anastasios Douvikas,Como,it Serie A,FW,unmatched_identity
+611,Radu Drăgușin,Fiorentina,it Serie A,DF,included
+614,Vanja Drkušič,Espanyol,es La Liga,DF,included
+615,Dominik Drobnič,Parma,it Serie A,DF,included
+616,Jonathan Dubasin,Osasuna,es La Liga,"MF,FW",included
+617,Denzel Dumfries,Real Madrid,es La Liga,DF,included
+618,Lewis Dunk,Brighton,eng Premier League,DF,included
+619,Pablo Durán,Celta Vigo,es La Liga,FW,included
+621,Hugo Duro,Valencia,es La Liga,FW,included
+622,Paulo Dybala,Roma,it Serie A,"MF,FW",current_source_exposure_mismatch
+625,Younes Ebnoutalib,Frankfurt,de Bundesliga,FW,included
+626,Simon Ebonog,Le Havre,fr Ligue 1,MF,included
+627,Enzo Ebosse,Udinese,it Serie A,DF,included
+630,Bright Ede,Dep. A Coruña,es La Liga,DF,included
+634,John Egan,Hull City,eng Premier League,DF,included
+635,CJ Egan-Riley,Marseille,fr Ligue 1,DF,included
+637,Maximilian Eggestein,Freiburg,de Bundesliga,MF,included
+638,Kingsley Ehizibue,Genoa,it Serie A,"MF,DF",included
+639,Chidera Ejuke,Sevilla,es La Liga,"MF,FW",included
+640,Jurgen Ekkelenkamp,Udinese,it Serie A,MF,included
+644,Mikael Ellertsson,Genoa,it Serie A,MF,included
+646,Elif Elmas,Atalanta,it Serie A,"MF,FW",unmatched_identity
+648,Nico Elvedi,Leeds United,eng Premier League,DF,included
+649,Emersonn,Ipswich Town,eng Premier League,FW,included
+650,Julio Enciso,Ipswich Town,eng Premier League,MF,included
+653,Yannik Engelhardt,Freiburg,de Bundesliga,MF,included
+654,Ramón Enríquez,Málaga,es La Liga,MF,included
+656,Xavi Espart,Barcelona,es La Liga,DF,included
+658,Francesco Esposito,Inter,it Serie A,FW,unmatched_identity
+659,Sebastiano Esposito,Sassuolo,it Serie A,FW,included
+660,Dario Essugo,Strasbourg,fr Ligue 1,MF,included
+662,Maxime Estève,RB Leipzig,de Bundesliga,DF,included
+663,Pervis Estupiñán,Milan,it Serie A,"MF,DF",included
+665,Evanilson,Bournemouth,eng Premier League,FW,included
+666,Milan van Ewijk,Coventry City,eng Premier League,"DF,MF",included
+667,Edu Expósito,Espanyol,es La Liga,MF,included
+670,Abde Ezzalzouli,Real Betis,es La Liga,"MF,FW",included
+672,Alieu Fadera,Cagliari,it Serie A,MF,included
+673,Nicolò Fagioli,Fiorentina,it Serie A,MF,included
+674,Romain Faivre,Auxerre,fr Ligue 1,"MF,FW",included
+677,Soufiane El-Faouzi,Schalke 04,de Bundesliga,MF,nationality_conflict
+679,Abdul Fatawu Issahaku,Ipswich Town,eng Premier League,MF,included
+685,Jacopo Fazzini,Cagliari,it Serie A,MF,included
+686,Aleix Febas,Celta Vigo,es La Liga,MF,included
+689,Ohis Felix Uduokhai,Union Berlin,de Bundesliga,DF,unmatched_identity
+690,Robin Fellhauer,Augsburg,de Bundesliga,MF,included
+691,Kiko Femenía,Getafe,es La Liga,"DF,MF",included
+692,Lewis Ferguson,Bologna,it Serie A,MF,included
+693,Bruno Fernandes,Manchester Utd,eng Premier League,MF,included
+694,Mateus Fernandes,Tottenham,eng Premier League,MF,included
+697,Enzo Fernández,Manchester City,eng Premier League,MF,included
+699,Ezequiél Fernández,Leverkusen,de Bundesliga,MF,unmatched_identity
+702,Roberto Férnandez,Espanyol,es La Liga,FW,included
+703,Thiago Fernández,Levante,es La Liga,"MF,FW",included
+705,Matias Fernandez-Pardo,Newcastle,eng Premier League,"MF,FW",nationality_conflict
+711,Kian Fitz-Jim,Torino,it Serie A,MF,included
+715,Romano Floriani,Lazio,it Serie A,DF,unmatched_identity
+716,Phil Foden,Manchester City,eng Premier League,MF,included
+717,Manga Foe Ondoa,Monza,it Serie A,MF,included
+720,Rayan Fofana,Le Havre,fr Ligue 1,"MF,FW",included
+721,Wesley Fofana,Chelsea,eng Premier League,DF,included
+722,Youssouf Fofana,Sevilla,es La Liga,MF,included
+723,Michael Folorunsho,Monza,it Serie A,MF,included
+724,Pablo Fornals,Real Betis,es La Liga,MF,included
+729,Juan Foyth,Villarreal,es La Liga,"DF,MF",included
+731,Przemysław Frankowski,Rennes,fr Ligue 1,"DF,MF",included
+732,Davide Frattesi,Lazio,it Serie A,MF,included
+733,Alex Freeman,Villarreal,es La Liga,DF,included
+734,Morten Frendrup,Genoa,it Serie A,MF,included
+735,Marco Friedl,Werder Bremen,de Bundesliga,DF,included
+739,Jorge de Frutos,Rayo Vallecano,es La Liga,"FW,MF",included
+740,Chris Führich,Stuttgart,de Bundesliga,MF,included
+741,Niclas Füllkrug,Werder Bremen,de Bundesliga,FW,included
+745,Tiago Gabriel,Lecce,it Serie A,DF,included
+746,Kouakou Gadou,Dortmund,de Bundesliga,DF,unmatched_identity
+747,Gianluca Gaetano,Atalanta,it Serie A,MF,included
+749,Cody Gakpo,Liverpool,eng Premier League,MF,included
+750,Javi Galán,Celta Vigo,es La Liga,MF,included
+751,Iñigo Ruiz de Galarreta,Athletic Club,es La Liga,MF,included
+753,Einar Galilea,Málaga,es La Liga,DF,included
+754,Conor Gallagher,Tottenham,eng Premier League,MF,included
+755,Antonino Gallo,Lecce,it Serie A,"DF,MF",included
+758,Ismaëlo Ganiou,Lens,fr Ligue 1,DF,included
+761,Aleix García,Leverkusen,de Bundesliga,MF,included
+762,Álvaro García,Rayo Vallecano,es La Liga,"MF,FW",included
+763,Andrés García,Getafe,es La Liga,"MF,DF",included
+764,Eric García,Barcelona,es La Liga,DF,included
+765,Fran Garcia,Real Betis,es La Liga,DF,included
+766,Gonzalo García,Fulham,eng Premier League,FW,included
+769,Pablo Garcia,Racing Sant,es La Liga,MF,included
+771,Rubén García,Osasuna,es La Liga,"MF,FW",included
+773,Víctor García,Levante,es La Liga,MF,included
+775,James Garner,Everton,eng Premier League,MF,included
+776,Rafael Garrido,Málaga,es La Liga,DF,unmatched_identity
+784,Tyrique George,Everton,eng Premier League,MF,included
+786,Beñat Gerenabarrena,Athletic Club,es La Liga,MF,included
+788,Willem Geubbels,Lecce,it Serie A,FW,included
+789,Farés Ghedjemis,Frosinone,it Serie A,MF,nationality_conflict
+792,Morgan Gibbs-White,Nottingham,eng Premier League,MF,included
+794,Mario Gila,Milan,it Serie A,DF,included
+795,Ryan Giles,Hull City,eng Premier League,DF,included
+797,Billy Gilmour,Napoli,it Serie A,MF,included
+798,Gvidas Gineitis,Torino,it Serie A,MF,included
+799,Matthias Ginter,Freiburg,de Bundesliga,DF,included
+801,Olivier Giroud,Lille,fr Ligue 1,FW,included
+806,Mika Godts,Paris SG,fr Ligue 1,FW,included
+807,Maxima Goffi,Lille,fr Ligue 1,DF,fewer_than_270_current_minutes
+808,Saba Goglichidze,Monza,it Serie A,DF,included
+810,Aleksandr Golovin,Monaco,fr Ligue 1,MF,included
+811,Angel Gomes,Marseille,fr Ligue 1,MF,included
+812,João Gomes,Aston Villa,eng Premier League,MF,included
+813,Diego Gómez,Brighton,eng Premier League,MF,included
+815,Moi Gómez,Osasuna,es La Liga,MF,included
+816,Sergio Gómez,Real Sociedad,es La Liga,DF,included
+817,Unai Gómez,Udinese,it Serie A,"MF,FW",included
+818,Valentín Gómez,Real Betis,es La Liga,DF,included
+819,Iron Gomis,Troyes,fr Ligue 1,MF,included
+820,Tidiam Gomis,RB Leipzig,de Bundesliga,FW,included
+823,Hugo González,Celta Vigo,es La Liga,FW,included
+824,Nicolás González,Juventus,it Serie A,MF,unmatched_identity
+825,Nicolás González,Newcastle,eng Premier League,MF,unmatched_identity
+826,Urko González,Espanyol,es La Liga,MF,unmatched_identity
+827,Anthony Gordon,Barcelona,es La Liga,"FW,MF",included
+829,Jon Gorrotxategi,Real Sociedad,es La Liga,MF,included
+831,Robin Gosens,Schalke 04,de Bundesliga,"MF,DF",included
+835,Amine Gouiri,Marseille,fr Ligue 1,FW,nationality_conflict
+839,Paolo Gozzi Iweru,Troyes,fr Ligue 1,DF,unmatched_identity
+841,Ryan Gravenberch,Liverpool,eng Premier League,MF,included
+842,Archie Gray,Tottenham,eng Premier League,"DF,MF",included
+845,Jack Grealish,Everton,eng Premier League,MF,included
+846,Jacob Greaves,Ipswich Town,eng Premier League,DF,included
+847,Michael Gregoritsch,Augsburg,de Bundesliga,FW,included
+851,Álex Grimaldo,Atlético Madrid,es La Liga,"DF,MF",unmatched_identity
+852,Matt Grimes,Coventry City,eng Premier League,MF,included
+853,Pascal Groß,Brighton,eng Premier League,MF,included
+854,Fabio Gruber,Mainz 05,de Bundesliga,DF,nationality_conflict
+855,Brajan Gruda,RB Leipzig,de Bundesliga,"MF,FW",included
+856,Marco Grüll,Werder Bremen,de Bundesliga,"MF,FW",included
+857,Albert Grønbaek,Hamburger SV,de Bundesliga,MF,included
+858,Nemanja Gudelj,Getafe,es La Liga,"MF,DF",included
+859,Gabriel Gudmundsson,Leeds United,eng Premier League,MF,included
+860,Gonçalo Guedes,Real Sociedad,es La Liga,MF,included
+861,Marc Guéhi,Manchester City,eng Premier League,"DF,MF",included
+862,Javier Guerra,Valencia,es La Liga,"MF,FW",unmatched_identity
+865,Dame Guèye,Le Mans,fr Ligue 1,FW,included
+868,Pape Gueye,Villarreal,es La Liga,MF,included
+870,Bruno Guimarães,Arsenal,eng Premier League,MF,included
+871,Serhou Guirassy,Dortmund,de Bundesliga,FW,included
+874,Arda Güler,Real Madrid,es La Liga,MF,included
+876,Lasse Günther,Elversberg,de Bundesliga,DF,included
+877,Jon Guridi,Sevilla,es La Liga,MF,included
+879,Malo Gusto,Chelsea,eng Premier League,"MF,DF",included
+881,Miguel Gutiérrez,Leverkusen,de Bundesliga,DF,included
+884,Joško Gvardiol,Manchester City,eng Premier League,DF,included
+885,Jan Gyamerah,Elversberg,de Bundesliga,DF,nationality_conflict
+887,Erling Haaland,Manchester City,eng Premier League,FW,included
+888,Justin de Haas,Valencia,es La Liga,DF,included
+889,Janik Haberer,Union Berlin,de Bundesliga,"DF,MF",included
+890,Robin Hack,Gladbach,de Bundesliga,MF,included
+893,Amadou Haidara,Lens,fr Ligue 1,MF,included
+894,Antoine Hainaut,Venezia,it Serie A,MF,included
+895,Albian Hajdari,Hoffenheim,de Bundesliga,DF,nationality_conflict
+896,Achraf Hakimi,Paris SG,fr Ligue 1,DF,included
+897,Redouane Halhal,Venezia,it Serie A,DF,nationality_conflict
+898,Lewis Hall,Newcastle,eng Premier League,DF,included
+900,Dávid Hancko,Atlético Madrid,es La Liga,DF,included
+901,Mattes Hansen,Paderborn 07,de Bundesliga,DF,included
+902,Ridgeciano Haps,Venezia,it Serie A,"MF,DF",nationality_conflict
+903,Hákon Haraldsson,Lille,fr Ligue 1,"MF,FW",included
+905,Conrad Harder,Strasbourg,fr Ligue 1,FW,included
+907,Amine Harit,Marseille,fr Ligue 1,MF,included
+908,Quilindschy Hartman,Espanyol,es La Liga,"DF,MF",included
+910,Daiki Hashioka,Gladbach,de Bundesliga,DF,included
+912,Jorrel Hato,Chelsea,eng Premier League,"MF,DF",included
+913,Kai Havertz,Arsenal,eng Premier League,FW,included
+916,Jan Paul van Hecke,Tottenham,eng Premier League,DF,included
+918,Torbjørn Heggem,Bologna,it Serie A,DF,included
+919,Gauthier Hein,Nice,fr Ligue 1,MF,included
+920,Eivind Helland,Bologna,it Serie A,DF,included
+921,George Hemmings,Aston Villa,eng Premier League,MF,included
+923,Jordan Henderson,Chelsea,eng Premier League,MF,included
+924,Ramon Hendriks,Stuttgart,de Bundesliga,DF,included
+925,Benjamin Henrichs,RB Leipzig,de Bundesliga,DF,included
+928,Mario Hermoso,Roma,it Serie A,DF,current_source_exposure_mismatch
+929,Javier Hernández,Espanyol,es La Liga,MF,unmatched_identity
+930,Lucas Hernández,Paris SG,fr Ligue 1,DF,included
+931,Yeremay Hernández,Dep. A Coruña,es La Liga,"MF,FW",included
+932,Manu Hernando,Racing Sant,es La Liga,DF,included
+936,Yangel Herrera,Real Sociedad,es La Liga,MF,included
+938,Lucas Herrington,Hull City,eng Premier League,DF,included
+941,Aaron Hickey,Brentford,eng Premier League,"MF,DF",included
+943,Omar El Hilali,Espanyol,es La Liga,DF,included
+944,James Hill,Bournemouth,eng Premier League,DF,included
+947,Roger Hinojo,Espanyol,es La Liga,DF,included
+950,Morten Hjulmand,Atlético Madrid,es La Liga,MF,included
+951,Adam Hložek,Hoffenheim,de Bundesliga,"FW,MF",included
+955,Emil Holm,Bologna,it Serie A,DF,included
+963,Dean Huijsen,Real Madrid,es La Liga,DF,included
+964,Trai Hume,Sunderland,eng Premier League,"MF,DF",included
+966,Lucas Høgsberg,Strasbourg,fr Ligue 1,DF,included
+967,Pierre Højbjerg,Marseille,fr Ligue 1,MF,unmatched_identity
+969,Rasmus Højlund,Napoli,it Serie A,FW,included
+970,Pablo Ibáñez,Alavés,es La Liga,MF,included
+971,Arijon Ibrahimović,Augsburg,de Bundesliga,"MF,FW",included
+972,Stanis Idumbo,Monaco,fr Ligue 1,MF,included
+974,Merwan Ifnaoui,Troyes,fr Ligue 1,"FW,MF",included
+975,Iglesias,Sevilla,es La Liga,DF,unmatched_identity
+985,Tim Iroegbunam,Hull City,eng Premier League,MF,included
+987,Alexander Isak,Liverpool,eng Premier League,FW,included
+988,Gustav Isaksen,Lazio,it Serie A,FW,included
+989,Isco,Real Betis,es La Liga,MF,included
+991,Ardian Ismajli,Torino,it Serie A,DF,included
+992,Ko Itakura,Gladbach,de Bundesliga,DF,included
+995,Franjo Ivanović,Lens,fr Ligue 1,"MF,FW",included
+996,Alex Iwobi,Fulham,eng Premier League,MF,included
+997,Nicolas Jackson,Aston Villa,eng Premier League,FW,included
+998,Jérémy Jacquet,Liverpool,eng Premier League,DF,included
+999,Lee Jae-sung,Mainz 05,de Bundesliga,MF,included
+1000,Jair,Nottingham,eng Premier League,DF,unmatched_identity
+1003,Reece James,Chelsea,eng Premier League,MF,included
+1004,Vitaly Janelt,Brentford,eng Premier League,MF,included
+1007,Ardon Jashari,Milan,it Serie A,MF,included
+1010,Mikel Jauregizar,Athletic Club,es La Liga,MF,included
+1013,Elias Jelert,Le Havre,fr Ligue 1,"MF,DF",included
+1014,Finn Jeltsch,Stuttgart,de Bundesliga,DF,included
+1016,Mathias Jensen,Brentford,eng Premier League,MF,included
+1019,Juan Jesus,Venezia,it Serie A,DF,included
+1020,Álex Jiménez,Fiorentina,it Serie A,DF,included
+1021,João Pedro,Chelsea,eng Premier League,FW,included
+1024,Þórir Jóhann Helgason,Venezia,it Serie A,MF,unmatched_identity
+1025,Ísak Jóhannesson,Köln,de Bundesliga,MF,included
+1026,Brennan Johnson,Everton,eng Premier League,MF,included
+1036,Vinicius Júnior,Real Madrid,es La Liga,MF,included
+1038,James Justin,Leeds United,eng Premier League,"DF,MF",included
+1039,Ferran Jutglà,Celta Vigo,es La Liga,FW,included
+1041,Thomas Jørgensen,Toulouse,fr Ligue 1,MF,included
+1043,Ozan Kabak,Hoffenheim,de Bundesliga,DF,included
+1044,Christian Kabasele,Udinese,it Serie A,DF,included
+1045,Anton Kade,Augsburg,de Bundesliga,MF,included
+1047,Ferdi Kadioglu,Brighton,eng Premier League,DF,unmatched_identity
+1049,Joseph Kalulu,Angers,fr Ligue 1,DF,included
+1050,Pierre Kalulu,Juventus,it Serie A,"DF,MF",included
+1051,Daichi Kamada,Crystal Palace,eng Premier League,MF,included
+1052,Boubacar Kamara,Aston Villa,eng Premier League,MF,included
+1053,Hassane Kamara,Udinese,it Serie A,MF,included
+1056,Harry Kane,Bayern Munich,de Bundesliga,FW,included
+1057,Lee Kang-in,Atlético Madrid,es La Liga,"FW,MF",included
+1059,Kenan Karaman,Schalke 04,de Bundesliga,MF,included
+1060,Atakan Karazor,Stuttgart,de Bundesliga,MF,nationality_conflict
+1062,Dermane Karim,Troyes,fr Ligue 1,MF,included
+1065,Jesper Karlström,Udinese,it Serie A,MF,included
+1066,Nikola Katić,Schalke 04,de Bundesliga,DF,nationality_conflict
+1068,Michael Kayode,Brentford,eng Premier League,DF,included
+1072,Ilan Kebbal,Paris FC,fr Ligue 1,MF,nationality_conflict
+1074,Felix Keidel,Elversberg,de Bundesliga,MF,included
+1075,Mandela Keita,Parma,it Serie A,"MF,FW",current_source_exposure_mismatch
+1081,Marc-Oliver Kempf,Como,it Serie A,DF,included
+1082,Milos Kerkez,Liverpool,eng Premier League,DF,included
+1086,Anan Khalaili,Crystal Palace,eng Premier League,MF,included
+1087,Bilal El Khannouss,Stuttgart,de Bundesliga,MF,included
+1088,Rani Khedira,Union Berlin,de Bundesliga,"MF,FW",nationality_conflict
+1090,Abdukodir Khusanov,Manchester City,eng Premier League,DF,included
+1091,Kialonda,Lecce,it Serie A,DF,unmatched_identity
+1092,Joshua Kimmich,Bayern Munich,de Bundesliga,MF,included
+1093,Joshua King,Fulham,eng Premier League,MF,unmatched_identity
+1098,Justin Kluivert,Bournemouth,eng Premier League,MF,included
+1102,Robin Koch,Frankfurt,de Bundesliga,DF,included
+1103,Giorgi Kochorashvili,Sevilla,es La Liga,MF,included
+1110,Koke,Atlético Madrid,es La Liga,MF,included
+1111,Sead Kolašinac,Atalanta,it Serie A,DF,included
+1112,Luca Koleosho,Paris FC,fr Ligue 1,MF,nationality_conflict
+1113,Randal Kolo Muani,Juventus,it Serie A,FW,included
+1118,Ibrahima Konaté,Real Madrid,es La Liga,DF,included
+1123,Mamadou Koné,Lorient,fr Ligue 1,FW,included
+1124,Manu Koné,Roma,it Serie A,MF,current_source_exposure_mismatch
+1128,Ezri Konsa,Arsenal,eng Premier League,DF,included
+1130,Teun Koopmeiners,Juventus,it Serie A,MF,included
+1131,Ville Koski,Alavés,es La Liga,DF,included
+1132,Odilon Kossounou,Atalanta,it Serie A,DF,included
+1133,Charalampos Kostoulas,Brighton,eng Premier League,FW,included
+1134,Keita Kosugi,Frankfurt,de Bundesliga,"DF,MF",included
+1135,Eddy Kouadio,Monza,it Serie A,DF,included
+1136,Arsène Kouassi,Lorient,fr Ligue 1,MF,included
+1140,Seny Koumbassa,Toulouse,fr Ligue 1,DF,included
+1141,Jules Koundé,Barcelona,es La Liga,DF,included
+1146,Maurice Krattenmacher,Elversberg,de Bundesliga,MF,included
+1147,Tom Krauß,Köln,de Bundesliga,MF,included
+1148,Thomas Kristensen,Atalanta,it Serie A,DF,included
+1150,Nikola Krstović,Atalanta,it Serie A,FW,included
+1152,Takefusa Kubo,Real Sociedad,es La Liga,MF,included
+1153,Mohammed Kudus,Tottenham,eng Premier League,MF,included
+1158,Hasan Kuruçay,Schalke 04,de Bundesliga,DF,nationality_conflict
+1160,Khvicha Kvaratskhelia,Paris SG,fr Ligue 1,FW,included
+1161,Giorgi Kvernadze,Frosinone,it Serie A,MF,included
+1163,Adrián de la Fuente,Levante,es La Liga,DF,included
+1166,Maxence Lacroix,Chelsea,eng Premier League,DF,included
+1167,Yoel Lago,Celta Vigo,es La Liga,DF,included
+1169,Konrad Laimer,Bayern Munich,de Bundesliga,"DF,MF",included
+1171,Kenny Lala,Brest,fr Ligue 1,DF,nationality_conflict
+1173,Noa Lang,Napoli,it Serie A,"FW,MF",included
+1174,Aymeric Laporte,Athletic Club,es La Liga,DF,included
+1176,David Larrubia,Málaga,es La Liga,"MF,FW",included
+1181,Emmanuel Latte Lath,Union Berlin,de Bundesliga,FW,included
+1183,Alexandre Lauray,Le Mans,fr Ligue 1,MF,included
+1184,Armand Lauriente,Sassuolo,it Serie A,"FW,MF",included
+1186,Roméo Lavia,Chelsea,eng Premier League,MF,included
+1188,Théo Le Bris,Lorient,fr Ligue 1,MF,included
+1189,Jérémy Le Douaron,Troyes,fr Ligue 1,FW,included
+1190,Enzo Le Fée,Sunderland,eng Premier League,MF,included
+1191,Raphael Le Guen,Brest,fr Ligue 1,DF,included
+1193,Robin Le Normand,Atlético Madrid,es La Liga,DF,included
+1194,Pierre Lees-Melou,Paris FC,fr Ligue 1,MF,included
+1195,Jordan Lefort,Angers,fr Ligue 1,DF,nationality_conflict
+1198,Florian Lejeune,Rayo Vallecano,es La Liga,DF,included
+1199,Youssef Lekhedim,Alavés,es La Liga,DF,unmatched_identity
+1201,Thomas Lemar,Elche,es La Liga,MF,included
+1202,Louis Lemke,Hamburger SV,de Bundesliga,MF,included
+1203,Tim Lemperle,Hoffenheim,de Bundesliga,FW,included
+1206,Esteban Lepaul,Rennes,fr Ligue 1,FW,included
+1209,Jamie Leweling,Stuttgart,de Bundesliga,"MF,DF",included
+1211,Keane Lewis-Potter,Brentford,eng Premier League,"DF,MF",included
+1212,Myles Lewis-Skelly,Arsenal,eng Premier League,"MF,DF",included
+1213,Fedde Leysen,Sassuolo,it Serie A,DF,included
+1216,Isac Lidberg,Gladbach,de Bundesliga,FW,included
+1217,Philipp Lienhart,Freiburg,de Bundesliga,DF,included
+1218,Victor Lindelöf,Aston Villa,eng Premier League,DF,included
+1219,Luca Lipani,Sassuolo,it Serie A,MF,included
+1226,Diego Llorente,Real Betis,es La Liga,DF,included
+1227,Marcos Llorente,Atlético Madrid,es La Liga,"DF,MF",included
+1228,Gautier Lloris,Brest,fr Ligue 1,DF,included
+1230,Danny Loader,Auxerre,fr Ligue 1,"MF,FW",unmatched_identity
+1231,Diogo Lobão,Strasbourg,fr Ligue 1,MF,unmatched_identity
+1233,Stanislav Lobotka,Napoli,it Serie A,MF,included
+1234,Manuel Locatelli,Juventus,it Serie A,MF,included
+1235,Luka Lochoshvili,Köln,de Bundesliga,DF,included
+1236,Bradley Locko,Brest,fr Ligue 1,DF,included
+1239,Simone Lontani,Parma,it Serie A,"MF,FW",current_source_exposure_mismatch
+1240,Ademola Lookman,Atlético Madrid,es La Liga,"FW,MF",included
+1242,Fermin López,Barcelona,es La Liga,MF,included
+1244,Maxime Lopez,Paris FC,fr Ligue 1,MF,included
+1246,Unai López,Rayo Vallecano,es La Liga,MF,included
+1247,Dani Lorenzo,Málaga,es La Liga,MF,included
+1249,Johaneko Louisjean,Athletic Club,es La Liga,"DF,MF",included
+1250,Miguel Loureiro,Dep. A Coruña,es La Liga,DF,included
+1252,Pol Lozano,Espanyol,es La Liga,MF,included
+1253,Lorenzo Lucca,Napoli,it Serie A,FW,included
+1254,Lorenzo Lucchesi,Monza,it Serie A,DF,included
+1255,Jhon Lucumí,Juventus,it Serie A,DF,included
+1256,Florentino Luís,Ipswich Town,eng Premier League,MF,unmatched_identity
+1257,José Luis Gayà,Valencia,es La Liga,DF,unmatched_identity
+1258,Luismi,Dep. A Coruña,es La Liga,MF,unmatched_identity
+1259,Douglas Luiz,Juventus,it Serie A,MF,included
+1260,Castello Lukeba,RB Leipzig,de Bundesliga,DF,included
+1261,Saša Lukić,Ipswich Town,eng Premier League,MF,included
+1262,Emanuele Lulli,Roma,it Serie A,MF,current_source_exposure_mismatch
+1266,Ian Maatsen,Aston Villa,eng Premier League,DF,included
+1267,Alexis Mac Allister,Liverpool,eng Premier League,MF,included
+1269,Koki Machida,Hoffenheim,de Bundesliga,DF,included
+1270,Shuto Machino,Gladbach,de Bundesliga,FW,included
+1271,Carlos Macià,Villarreal,es La Liga,MF,included
+1274,Noni Madueke,Arsenal,eng Premier League,MF,included
+1275,Daizen Maeda,Ipswich Town,eng Premier League,MF,included
+1276,Pablo Maffeo,Valencia,es La Liga,"DF,MF",included
+1277,Louis Mafouta,Le Mans,fr Ligue 1,FW,included
+1278,Gabriel Magalhães,Arsenal,eng Premier League,DF,included
+1279,Hugo Magnetti,Brest,fr Ligue 1,MF,included
+1280,Harry Maguire,Manchester Utd,eng Premier League,DF,included
+1282,Linton Maina,Köln,de Bundesliga,"MF,FW",included
+1283,Kobbie Mainoo,Manchester Utd,eng Premier League,MF,included
+1284,Ainsley Maitland-Niles,Everton,eng Premier League,DF,included
+1285,Josh Maja,Le Havre,fr Ligue 1,FW,included
+1286,Jean-Victor Makengo,Lorient,fr Ligue 1,MF,included
+1287,Jordy Makengo,Freiburg,de Bundesliga,DF,nationality_conflict
+1288,Christ Makosso,Auxerre,fr Ligue 1,DF,included
+1291,Said El Mala,Köln,de Bundesliga,"FW,MF",included
+1292,Daniel Maldini,Cagliari,it Serie A,"MF,FW",included
+1293,Youssef Maleh,Lecce,it Serie A,MF,nationality_conflict
+1294,Donyell Malen,Roma,it Serie A,FW,current_source_exposure_mismatch
+1298,Gianluca Mancini,Roma,it Serie A,DF,current_source_exposure_mismatch
+1300,Reinildo Mandava,Sunderland,eng Premier League,DF,included
+1301,Aïssa Mandi,Levante,es La Liga,DF,included
+1302,Rolando Mandragora,Torino,it Serie A,MF,included
+1304,Xavier Mandza Tsiendi,Nice,fr Ligue 1,DF,unmatched_identity
+1306,Orel Mangala,Getafe,es La Liga,MF,included
+1307,Ricardo Mangas,Monza,it Serie A,"MF,FW",included
+1308,Mantilla,Racing Sant,es La Liga,DF,unmatched_identity
+1309,Johan Manzambi,Aston Villa,eng Premier League,MF,included
+1311,Alessandro Marcandalli,Genoa,it Serie A,DF,included
+1314,José María Giménez,Dep. A Coruña,es La Liga,DF,included
+1316,Mariano,Alavés,es La Liga,FW,unmatched_identity
+1319,Rafa Marín,Napoli,it Serie A,DF,included
+1320,Stefano Marino,Paderborn 07,de Bundesliga,FW,included
+1321,João Mário Lopes,Fiorentina,it Serie A,DF,unmatched_identity
+1322,Omar Marmoush,Tottenham,eng Premier League,"FW,MF",included
+1323,Lucas Maronnier,Troyes,fr Ligue 1,DF,included
+1324,Marquinhos,Paris SG,fr Ligue 1,DF,included
+1328,Andrés Martín,Racing Sant,es La Liga,MF,included
+1330,Gerard Martín,Barcelona,es La Liga,DF,included
+1331,Iván Martín,Racing Sant,es La Liga,MF,included
+1332,Jon Martin,Real Sociedad,es La Liga,DF,included
+1334,Mario Martín,Getafe,es La Liga,MF,included
+1335,Arnau Martinez,Valencia,es La Liga,DF,included
+1339,Joaquín Martínez Gauna,Strasbourg,fr Ligue 1,DF,included
+1341,Lautaro Martínez,Inter,it Serie A,FW,included
+1342,Lisandro Martínez,Manchester Utd,eng Premier League,DF,included
+1343,Pablo Martínez,Málaga,es La Liga,MF,included
+1345,Toni Martínez,Alavés,es La Liga,FW,included
+1348,Patrizio Masini,Frosinone,it Serie A,MF,included
+1349,Ephron Mason-Clark,Coventry City,eng Premier League,MF,nationality_conflict
+1350,Han-Noah Massengo,Augsburg,de Bundesliga,MF,included
+1352,Franco Mastantuono,Fiorentina,it Serie A,"FW,MF",included
+1354,Igor Matanović,Freiburg,de Bundesliga,FW,included
+1355,Pape Matar Sarr,Juventus,it Serie A,MF,included
+1357,Nemanja Matić,Sassuolo,it Serie A,MF,included
+1359,Chrislain Matsima,Augsburg,de Bundesliga,DF,included
+1369,Ibrahim Maza,Leverkusen,de Bundesliga,MF,included
+1374,Ethan Mbappé,Lille,fr Ligue 1,"MF,FW",included
+1375,Kylian Mbappé,Real Madrid,es La Liga,FW,included
+1378,Bryan Mbeumo,Manchester Utd,eng Premier League,"MF,FW",included
+1379,Pathé Mboup,Brest,fr Ligue 1,MF,included
+1380,Moustapha Mbow,Paris FC,fr Ligue 1,DF,included
+1382,James Mcatee,Nottingham,eng Premier League,MF,included
+1384,Oliver McBurnie,Hull City,eng Premier League,FW,included
+1385,John McGinn,Aston Villa,eng Premier League,MF,included
+1386,Weston McKennie,Juventus,it Serie A,MF,included
+1387,Mark McKenzie,Toulouse,fr Ligue 1,DF,included
+1389,Dwight McNeil,Crystal Palace,eng Premier League,MF,included
+1390,Scott McTominay,Napoli,it Serie A,MF,included
+1391,Facundo Medina,Leverkusen,de Bundesliga,DF,included
+1397,Nobel Mendy,Hull City,eng Premier League,DF,included
+1398,Paul Mendy,Cagliari,it Serie A,"FW,MF",included
+1399,Gideon Mensah,Köln,de Bundesliga,DF,included
+1402,Izan Merino,Málaga,es La Liga,MF,included
+1405,Rafik Messali,Toulouse,fr Ligue 1,DF,nationality_conflict
+1406,Junior Messias,Genoa,it Serie A,MF,included
+1408,Thomas Meunier,Sunderland,eng Premier League,"MF,DF",included
+1412,Georges Mikautadze,Villarreal,es La Liga,FW,included
+1413,Nikola Milenković,Nottingham,eng Premier League,DF,included
+1414,Lewis Miley,Newcastle,eng Premier League,"MF,DF",included
+1417,Luis Milla,Como,it Serie A,MF,included
+1420,Antoine Mille,Troyes,fr Ligue 1,MF,included
+1421,Lennon Miller,Udinese,it Serie A,MF,included
+1422,Kim Min-jae,Bayern Munich,de Bundesliga,DF,included
+1423,Yerry Mina,Cagliari,it Serie A,DF,included
+1425,Tyrone Mings,Aston Villa,eng Premier League,DF,included
+1427,Juan Miranda,Bologna,it Serie A,"MF,DF",included
+1429,Jeyland Mitchell,Strasbourg,fr Ligue 1,DF,included
+1430,Tyrick Mitchell,Crystal Palace,eng Premier League,MF,included
+1432,Maximilian Mittelstädt,Stuttgart,de Bundesliga,"DF,MF",included
+1436,Luka Modrić,Milan,it Serie A,MF,included
+1438,Terem Moffi,Hamburger SV,de Bundesliga,FW,included
+1440,Wael Mohya,Gladbach,de Bundesliga,MF,included
+1441,Johan Mojica,Getafe,es La Liga,"DF,MF",included
+1442,David Mokwa,Elversberg,de Bundesliga,FW,included
+1443,Alberto Moleiro,Villarreal,es La Liga,"MF,FW",included
+1444,Nahuel Molina,Roma,it Serie A,MF,current_source_exposure_mismatch
+1445,Jon Moncayola,Osasuna,es La Liga,MF,included
+1446,Adrien Monfray,Troyes,fr Ligue 1,DF,included
+1447,Joel Monteiro,Lecce,it Serie A,"FW,MF",nationality_conflict
+1448,Ilario Monterisi,Frosinone,it Serie A,DF,included
+1450,Mikey Moore,Köln,de Bundesliga,"MF,FW",included
+1451,Rodrigo Mora,Roma,it Serie A,MF,current_source_exposure_mismatch
+1453,Javi Morcillo,Elche,es La Liga,"MF,DF",included
+1454,Afonso Moreira,Leverkusen,de Bundesliga,MF,included
+1455,Diego Moreira,Milan,it Serie A,MF,nationality_conflict
+1456,Gerard Moreno,Villarreal,es La Liga,FW,included
+1457,Matias Moreno,Venezia,it Serie A,DF,included
+1458,Tete Morente,Elche,es La Liga,"MF,FW",included
+1459,Ilaix Moriba,Celta Vigo,es La Liga,MF,included
+1463,Tyler Morton,Lyon,fr Ligue 1,MF,included
+1467,Dany Mota,Monza,it Serie A,"MF,FW",included
+1469,Samir El Mourabet,Strasbourg,fr Ligue 1,MF,nationality_conflict
+1470,Santiago Mouriño,Villarreal,es La Liga,DF,included
+1475,Tarik Muharemovic,Leeds United,eng Premier League,DF,nationality_conflict
+1476,Miro Muheim,Hamburger SV,de Bundesliga,MF,included
+1477,Ngal'Ayel Mukau,Lille,fr Ligue 1,MF,included
+1478,Nordi Mukiele,Sunderland,eng Premier League,DF,included
+1484,Daniel Muñoz,Nottingham,eng Premier League,MF,included
+1485,Iker Muñoz,Osasuna,es La Liga,MF,included
+1486,Joaquín Muñoz,Málaga,es La Liga,MF,included
+1487,Víctor Muñoz,Liverpool,eng Premier League,MF,included
+1489,Murillo,Nottingham,eng Premier League,DF,included
+1490,Jacob Murphy,Newcastle,eng Premier League,MF,included
+1492,Yunus Musah,Milan,it Serie A,MF,included
+1497,Junior Mwanga,Le Havre,fr Ligue 1,"DF,MF",included
+1498,Phillipp Mwene,Mainz 05,de Bundesliga,MF,included
+1499,Vitaliy Mykolenko,Everton,eng Premier League,DF,unmatched_identity
+1500,David Møller Wolfe,Hamburger SV,de Bundesliga,MF,included
+1501,Obite N'Dicka,Roma,it Serie A,DF,unmatched_identity
+1502,Konan N'dri,Lecce,it Serie A,FW,included
+1506,Mahamadou Nagida,Rennes,fr Ligue 1,"DF,MF",unmatched_identity
+1508,Sota Nakamura,Le Havre,fr Ligue 1,"FW,MF",included
+1510,Sebastian Nanasi,Strasbourg,fr Ligue 1,"FW,MF",included
+1511,Shafiq Nandja,Hamburger SV,de Bundesliga,DF,included
+1515,Natan,Real Betis,es La Liga,DF,included
+1516,Pau Navarro,Villarreal,es La Liga,DF,included
+1517,Roberto Navarro,Athletic Club,es La Liga,MF,unmatched_identity
+1518,Ximo Navarro,Dep. A Coruña,es La Liga,DF,included
+1520,Flávio Nazinho,Monaco,fr Ligue 1,DF,included
+1522,Michel Ndary Adopo,Cagliari,it Serie A,"MF,DF",unmatched_identity
+1523,Youssouf Ndayishimiye,Nice,fr Ligue 1,DF,included
+1525,Iliman Ndiaye,Manchester City,eng Premier League,"MF,FW",included
+1528,Rassoul Ndiaye,Le Havre,fr Ligue 1,MF,nationality_conflict
+1530,Cher Ndour,Fiorentina,it Serie A,MF,included
+1531,Dan Ndoye,Nottingham,eng Premier League,MF,included
+1532,Ifeanyi Ndukwe,Levante,es La Liga,DF,included
+1536,Pedro Neto,Chelsea,eng Premier League,"MF,FW",included
+1539,Florian Neuhaus,Gladbach,de Bundesliga,MF,included
+1540,João Neves,Paris SG,fr Ligue 1,MF,included
+1541,Oumar Ngom,Lecce,it Serie A,MF,nationality_conflict
+1543,Nathan Ngoy,Lille,fr Ligue 1,DF,included
+1546,Moussa Niakhaté,Lyon,fr Ligue 1,DF,included
+1548,Rasmus Nicolaisen,Toulouse,fr Ligue 1,DF,included
+1550,Oliver Nielsen,Lazio,it Serie A,DF,unmatched_identity
+1552,Adrian Niño,Málaga,es La Liga,FW,included
+1553,Fernando Niño,Elche,es La Liga,FW,unmatched_identity
+1556,Alieu Njie,Fiorentina,it Serie A,"FW,MF",included
+1558,Timothée Nkada,Troyes,fr Ligue 1,"FW,MF",unmatched_identity
+1560,Eddie Nketiah,Crystal Palace,eng Premier League,"MF,FW",included
+1561,Noel Nkili,Frankfurt,de Bundesliga,MF,unmatched_identity
+1562,Niels Nkounkou,Nice,fr Ligue 1,MF,included
+1563,Christopher Nkunku,RB Leipzig,de Bundesliga,"MF,FW",included
+1564,Felix Nmecha,Dortmund,de Bundesliga,MF,included
+1566,Tochukwu Nnadi,Marseille,fr Ligue 1,MF,included
+1572,Tijjani Noslin,Lazio,it Serie A,FW,included
+1573,Lucas Noubi,Dep. A Coruña,es La Liga,DF,included
+1575,Bil Nsongo,Dep. A Coruña,es La Liga,"FW,MF",included
+1577,Ernest Nuamah,Lyon,fr Ligue 1,"MF,FW",included
+1578,Matheus Nunes,Manchester City,eng Premier League,DF,included
+1579,Álvaro Núñez,Celta Vigo,es La Liga,"DF,MF",included
+1581,Unai Núñez,Espanyol,es La Liga,DF,included
+1582,Antonio Nusa,RB Leipzig,de Bundesliga,"MF,FW",included
+1583,Ethan Nwaneri,Dortmund,de Bundesliga,MF,included
+1589,Luke O'Nien,Sunderland,eng Premier League,DF,included
+1590,Nico O'Reilly,Manchester City,eng Premier League,"MF,DF",included
+1592,Dara O'Shea,Ipswich Town,eng Premier League,DF,included
+1593,Raphael Obermair,Paderborn 07,de Bundesliga,MF,nationality_conflict
+1594,Adam Obert,Cagliari,it Serie A,"DF,MF",included
+1599,Job Ochieng',Real Sociedad,es La Liga,MF,included
+1600,Cas Odenthal,Sassuolo,it Serie A,DF,included
+1601,Jens Odgaard,Bologna,it Serie A,"MF,FW",included
+1603,Noah Okafor,Leeds United,eng Premier League,"MF,FW",included
+1607,Olasagasti,Levante,es La Liga,MF,unmatched_identity
+1608,Michael Olise,Bayern Munich,de Bundesliga,MF,included
+1609,Mathías Olivera,Napoli,it Serie A,DF,included
+1610,Dani Olmo,Barcelona,es La Liga,MF,included
+1612,Warmed Omari,Hamburger SV,de Bundesliga,DF,nationality_conflict
+1615,Raphael Onyedika,Frankfurt,de Bundesliga,MF,included
+1617,Frank Onyeka,Coventry City,eng Premier League,MF,included
+1618,Loïs Openda,Lyon,fr Ligue 1,FW,included
+1619,Fredrik Oppegard,Auxerre,fr Ligue 1,MF,included
+1621,Willi Orban,RB Leipzig,de Bundesliga,DF,included
+1622,Christian Ordoñez,Parma,it Serie A,MF,current_source_exposure_mismatch
+1626,Jacobo Ortega,Strasbourg,fr Ligue 1,FW,included
+1629,Asier Osambela,Osasuna,es La Liga,"DF,MF",included
+1630,Milutin Osmajić,Genoa,it Serie A,FW,included
+1632,Abiel Osorio,Elche,es La Liga,FW,included
+1638,David Otorbi,Valencia,es La Liga,MF,included
+1639,Zakaria El Ouahdi,Hamburger SV,de Bundesliga,MF,included
+1640,Abdoul Ouattara,Ipswich Town,eng Premier League,"DF,MF",included
+1641,Dango Ouattara,Brentford,eng Premier League,"MF,FW",included
+1642,Amine El Ouazzani,Angers,fr Ligue 1,FW,included
+1645,Anis Ouzenadji,Troyes,fr Ligue 1,DF,included
+1646,Djibril Ouziad,Le Havre,fr Ligue 1,"DF,MF",included
+1647,Mikel Oyarzabal,Real Sociedad,es La Liga,"FW,MF",included
+1648,Anthony Oyono,Frosinone,it Serie A,DF,included
+1651,Willian Pacho,Paris SG,fr Ligue 1,DF,included
+1653,Pablo Pagis,Paris FC,fr Ligue 1,MF,included
+1654,Igor Paixão,Marseille,fr Ligue 1,MF,included
+1656,Exequiel Palacios,Ipswich Town,eng Premier League,MF,included
+1659,Matteo Palma,Udinese,it Serie A,DF,nationality_conflict
+1660,Cole Palmer,Chelsea,eng Premier League,MF,included
+1661,Emerson Palmieri,Marseille,fr Ligue 1,DF,unmatched_identity
+1663,Aitor Paredes,Athletic Club,es La Liga,DF,included
+1664,Troy Parrott,Real Betis,es La Liga,FW,included
+1665,Mario Pašalić,Atalanta,it Serie A,MF,included
+1668,Aleksandar Pavlovic,Bayern Munich,de Bundesliga,MF,included
+1669,Strahinja Pavlović,Milan,it Serie A,DF,included
+1670,Nico Paz,Como,it Serie A,MF,included
+1673,Pedri,Barcelona,es La Liga,MF,included
+1674,Zé Pedro Figueiredo,Cagliari,it Serie A,DF,unmatched_identity
+1675,Adrià Pedrosa,Rayo Vallecano,es La Liga,DF,included
+1676,Dženan Pejčinović,Stuttgart,de Bundesliga,"FW,MF",included
+1678,Mateo Pellegrino,Fiorentina,it Serie A,FW,included
+1682,Nicolas Pépé,Villarreal,es La Liga,MF,included
+1685,Ángel Pérez,Alavés,es La Liga,"MF,DF",included
+1686,Ayoze Pérez,Villarreal,es La Liga,FW,included
+1689,Kike Pérez,Venezia,it Serie A,MF,included
+1690,Nacho Pérez,Levante,es La Liga,DF,included
+1693,Romain Perraud,Lille,fr Ligue 1,DF,included
+1696,Máximo Perrone,Como,it Serie A,MF,included
+1698,Prosper Peter,Angers,fr Ligue 1,FW,nationality_conflict
+1699,Lukas Petkov,Elversberg,de Bundesliga,MF,nationality_conflict
+1705,Hugo Picard,Troyes,fr Ligue 1,MF,included
+1706,Roberto Piccoli,Bologna,it Serie A,FW,included
+1708,Arthur Piedfort,Auxerre,fr Ligue 1,"MF,DF",included
+1709,Amos Pieper,Werder Bremen,de Bundesliga,DF,included
+1710,Marvin Pieringer,Paderborn 07,de Bundesliga,FW,included
+1711,Santiago Pierotti,Lecce,it Serie A,"FW,MF",included
+1714,Lukas Pinckert,Elversberg,de Bundesliga,DF,included
+1715,Ethan Pinnock,Coventry City,eng Premier League,DF,included
+1716,Yéremy Pino,Crystal Palace,eng Premier League,MF,included
+1717,Jakub Piotrowski,Udinese,it Serie A,MF,included
+1718,Niccolò Pisilli,Roma,it Serie A,MF,current_source_exposure_mismatch
+1720,Tommaso Pobega,Bologna,it Serie A,MF,included
+1721,Matteo Politano,Napoli,it Serie A,"FW,MF",included
+1724,Łukasz Poręba,Elversberg,de Bundesliga,MF,included
+1725,Pedro Porro,Tottenham,eng Premier League,"DF,MF",included
+1726,Stefan Posch,Mainz 05,de Bundesliga,DF,included
+1727,Kacper Potulski,Mainz 05,de Bundesliga,DF,included
+1732,Matteo Prati,Racing Sant,es La Liga,MF,included
+1733,Grischa Prömel,Stuttgart,de Bundesliga,MF,included
+1736,Marc Pubill,Atlético Madrid,es La Liga,DF,included
+1738,Gustavo Puerta,Racing Sant,es La Liga,MF,fewer_than_270_current_minutes
+1739,Puga,Málaga,es La Liga,DF,unmatched_identity
+1740,Christian Pulisic,Milan,it Serie A,"MF,FW",included
+1741,Giacomo Quagliata,Dep. A Coruña,es La Liga,DF,included
+1742,Jarell Quansah,Leverkusen,de Bundesliga,DF,included
+1744,Leopold Querfeld,Union Berlin,de Bundesliga,DF,included
+1747,Antoine Rabillard,Le Mans,fr Ligue 1,MF,included
+1748,Adrien Rabiot,Milan,it Serie A,"MF,FW",included
+1750,Antonio Raimondo,Frosinone,it Serie A,FW,included
+1751,Jacobo Ramón,Como,it Serie A,DF,included
+1752,Pablo Ramon,Racing Sant,es La Liga,DF,included
+1753,Gonçalo Ramos,Milan,it Serie A,FW,included
+1755,Luca Ranieri,Fiorentina,it Serie A,DF,included
+1756,Lilian Raolisoa,Angers,fr Ligue 1,DF,included
+1757,Raphinha,Barcelona,es La Liga,FW,included
+1758,Marcus Rashford,Manchester Utd,eng Premier League,MF,included
+1760,Andrei Ratiu,Rayo Vallecano,es La Liga,DF,included
+1761,Petar Ratkov,Levante,es La Liga,FW,included
+1762,Raúl,Osasuna,es La Liga,"FW,MF",unmatched_identity
+1763,David Raum,RB Leipzig,de Bundesliga,DF,included
+1765,Rayan,Bournemouth,eng Premier League,MF,included
+1766,Abde Rebbach,Alavés,es La Liga,"MF,DF",included
+1767,Ángel Recio,Málaga,es La Liga,DF,nationality_conflict
+1768,Federico Redondo,Elche,es La Liga,DF,included
+1769,Youri Regeer,Werder Bremen,de Bundesliga,MF,included
+1772,Ludovit Reis,Werder Bremen,de Bundesliga,MF,included
+1774,Rocco Reitz,RB Leipzig,de Bundesliga,MF,included
+1775,Nicolai Remberg,Hamburger SV,de Bundesliga,MF,included
+1778,Daniel Requena,Levante,es La Liga,"MF,FW",unmatched_identity
+1780,Roy Revivo,Elche,es La Liga,DF,included
+1781,Oriol Rey,Levante,es La Liga,MF,included
+1782,Gio Reyna,Strasbourg,fr Ligue 1,MF,unmatched_identity
+1783,Bryan Reynolds,Rennes,fr Ligue 1,DF,included
+1785,Alexsandro Ribeiro,Lille,fr Ligue 1,DF,unmatched_identity
+1788,Declan Rice,Arsenal,eng Premier League,MF,included
+1789,Chris Richards,Crystal Palace,eng Premier League,DF,included
+1790,Amir Richardson,Le Havre,fr Ligue 1,MF,nationality_conflict
+1793,Clemens Riedel,Espanyol,es La Liga,DF,included
+1794,Fabian Rieder,Augsburg,de Bundesliga,MF,included
+1796,Hugo Rincón,Athletic Club,es La Liga,DF,included
+1797,Luis Rioja,Valencia,es La Liga,"MF,DF",included
+1798,Renaud Ripart,Troyes,fr Ligue 1,FW,included
+1799,Rodrigo Riquelme,Real Betis,es La Liga,MF,included
+1802,Andy Robertson,Tottenham,eng Premier League,"DF,MF",included
+1804,Antonee Robinson,Fulham,eng Premier League,DF,included
+1805,Jay Robinson,Monza,it Serie A,MF,included
+1806,Marc Roca,Real Betis,es La Liga,MF,included
+1808,Rodri,Barcelona,es La Liga,MF,included
+1810,Guido Rodríguez,Valencia,es La Liga,MF,included
+1811,Javi Rodríguez,Celta Vigo,es La Liga,DF,included
+1813,Juan Rodríguez,Cagliari,it Serie A,DF,included
+1816,Rafa Rodríguez,Málaga,es La Liga,MF,included
+1818,Riki Rodríguez,Dep. A Coruña,es La Liga,MF,included
+1820,Morgan Rogers,Chelsea,eng Premier League,"MF,FW",included
+1821,Merlin Röhl,Everton,eng Premier League,"DF,MF",included
+1822,Maximilian Rohr,Elversberg,de Bundesliga,DF,included
+1824,Miguel Román,Celta Vigo,es La Liga,MF,included
+1825,Alessandro Romano,Cagliari,it Serie A,MF,included
+1826,Carlos Romero,Villarreal,es La Liga,DF,included
+1827,Cristian Romero,Atlético Madrid,es La Liga,DF,included
+1828,Isaac Romero,Sevilla,es La Liga,"FW,MF",included
+1829,Iván Romero,Levante,es La Liga,"FW,MF",included
+1830,José Romero,Parma,it Serie A,FW,unmatched_identity
+1831,Zaid Romero,Getafe,es La Liga,DF,included
+1832,Rômulo,RB Leipzig,de Bundesliga,FW,included
+1834,Valentin Rongier,Rennes,fr Ligue 1,MF,included
+1835,Marten de Roon,Roma,it Serie A,MF,included
+1838,Tom Rothe,Union Berlin,de Bundesliga,DF,included
+1839,Mats Rots,Hoffenheim,de Bundesliga,DF,included
+1840,Anthony Rouault,Rennes,fr Ligue 1,DF,included
+1843,Jonathan Rowe,Atalanta,it Serie A,"FW,MF",included
+1845,Amir Rrahmani,Napoli,it Serie A,DF,included
+1847,Antonio Rüdiger,Real Madrid,es La Liga,DF,included
+1848,Jack Rudoni,Coventry City,eng Premier League,MF,included
+1849,Javi Rueda,Celta Vigo,es La Liga,MF,included
+1852,Fabián Ruiz Peña,Paris SG,fr Ligue 1,MF,unmatched_identity
+1855,Jacen Russell-Rowe,Toulouse,fr Ligue 1,FW,included
+1858,Julian Ryerson,Dortmund,de Bundesliga,MF,included
+1863,Mujaid Sadick,Rayo Vallecano,es La Liga,DF,included
+1864,Noah Sadiki,Sunderland,eng Premier League,MF,nationality_conflict
+1869,Richie Sagrado,Venezia,it Serie A,MF,included
+1871,Ismael Saibari,Bayern Munich,de Bundesliga,"MF,FW",included
+1873,Bukayo Saka,Arsenal,eng Premier League,MF,included
+1875,Tatsuhiro Sakamoto,Coventry City,eng Premier League,MF,included
+1876,Kike Salas,Sevilla,es La Liga,DF,included
+1877,Nathan Saliba,Villarreal,es La Liga,MF,included
+1878,Jorge Salinas,Racing Sant,es La Liga,DF,included
+1879,José Salinas,Málaga,es La Liga,DF,included
+1881,Lazar Samardzic,Atalanta,it Serie A,MF,included
+1882,Mbwana Samatta,Le Havre,fr Ligue 1,"FW,MF",included
+1883,Mama Samba Baldé,Brest,fr Ligue 1,MF,included
+1885,Albert Sambi Lokonga,Hamburger SV,de Bundesliga,MF,included
+1886,Chuky san jose,Werder Bremen,de Bundesliga,"MF,FW",unmatched_identity
+1887,Oihan Sancet,Athletic Club,es La Liga,MF,included
+1890,Manu Sánchez,Levante,es La Liga,DF,included
+1893,Philipp Sander,Gladbach,de Bundesliga,"MF,DF",included
+1894,Sadibou Sané,Monaco,fr Ligue 1,DF,included
+1895,Arouna Sangante,Sevilla,es La Liga,DF,included
+1896,Buba Sangaré,Elche,es La Liga,DF,included
+1898,Mamadou Sangare,Brentford,eng Premier League,MF,included
+1900,Kaishū Sano,Mainz 05,de Bundesliga,MF,included
+1904,Andrey Santos,Manchester Utd,eng Premier League,MF,included
+1906,Tiago Santos,Lille,fr Ligue 1,DF,included
+1909,Mamadou Sarr,Real Sociedad,es La Liga,DF,nationality_conflict
+1911,Ryūnosuke Satō,Valencia,es La Liga,MF,included
+1912,Martin Satriano,Getafe,es La Liga,"MF,FW",included
+1914,Sávio,Tottenham,eng Premier League,MF,included
+1916,Amine Sbai,Angers,fr Ligue 1,"MF,FW",nationality_conflict
+1917,Joe Scally,Gladbach,de Bundesliga,"MF,DF",included
+1918,Giorgio Scalvini,Atalanta,it Serie A,DF,included
+1919,Gianluca Scamacca,Atalanta,it Serie A,FW,included
+1920,Kevin Schade,Brentford,eng Premier League,"MF,FW",included
+1921,András Schäfer,Union Berlin,de Bundesliga,MF,included
+1924,Tjark Scheller,Paderborn 07,de Bundesliga,DF,included
+1925,Derry Scherhant,Freiburg,de Bundesliga,MF,included
+1927,Patrik Schick,Leverkusen,de Bundesliga,FW,included
+1928,Joël Schingtienne,Venezia,it Serie A,DF,included
+1929,Xaver Schlager,Nottingham,eng Premier League,MF,included
+1930,Nico Schlotterbeck,Dortmund,de Bundesliga,DF,included
+1933,Romano Schmid,Frosinone,it Serie A,MF,included
+1937,Jannik Schuster,Brentford,eng Premier League,DF,included
+1941,Alex Scott,Bournemouth,eng Premier League,MF,included
+1942,Sebastian Sebulonsen,Köln,de Bundesliga,DF,included
+1945,Nicolas Seiwald,RB Leipzig,de Bundesliga,MF,included
+1946,Ayumu Seko,Le Havre,fr Ligue 1,DF,included
+1949,Antoine Semenyo,Manchester City,eng Premier League,MF,included
+1952,Francho Serrano,Getafe,es La Liga,MF,included
+1956,Stephan El Shaarawy,Genoa,it Serie A,MF,included
+1957,Luke Shaw,Manchester Utd,eng Premier League,DF,included
+1958,Djibril Sidibé,Le Mans,fr Ligue 1,DF,included
+1959,Jamil Siebert,Lecce,it Serie A,DF,included
+1960,Vincent Sierro,Parma,it Serie A,MF,current_source_exposure_mismatch
+1961,Niko Sigur,Toulouse,fr Ligue 1,MF,nationality_conflict
+1962,António Silva,Bournemouth,eng Premier League,DF,included
+1963,Bernardo Silva,Real Madrid,es La Liga,MF,included
+1964,Éderson Silva,Atalanta,it Serie A,MF,unmatched_identity
+1966,Abdallah Sima,Lens,fr Ligue 1,"FW,MF",included
+1968,Giovanni Simeone,Torino,it Serie A,FW,included
+1969,Giuliano Simeone,Atlético Madrid,es La Liga,MF,included
+1973,Jahmai Simpson-Pusey,Köln,de Bundesliga,DF,included
+1974,Lassine Sinayoko,Paris FC,fr Ligue 1,FW,included
+1975,Luca Sirch,Elversberg,de Bundesliga,DF,included
+1978,Tim Skarke,Union Berlin,de Bundesliga,FW,included
+1979,Ellyes Skhiri,Köln,de Bundesliga,MF,included
+1981,Michał Skóraś,Lens,fr Ligue 1,MF,included
+1984,Regan Slater,Hull City,eng Premier League,MF,included
+1985,Adam Smith,Bournemouth,eng Premier League,DF,included
+1989,Simon Sohm,Venezia,it Serie A,MF,included
+1990,Dominic Solanke,Tottenham,eng Premier League,FW,included
+1991,Carlos Soler,Real Sociedad,es La Liga,MF,included
+1993,Oumar Solet,Udinese,it Serie A,DF,included
+1995,Mario Soriano,Dep. A Coruña,es La Liga,MF,included
+1996,Borna Sosa,Köln,de Bundesliga,DF,included
+1998,Florian Sotoca,Lens,fr Ligue 1,MF,included
+2000,Matìas Soulé,Roma,it Serie A,"MF,FW",current_source_exposure_mismatch
+2001,Issa Soumaré,Rennes,fr Ligue 1,"FW,MF",included
+2002,Djibril Sow,Genoa,it Serie A,MF,included
+2005,Leonardo Spinazzola,Napoli,it Serie A,"DF,MF",included
+2006,Anton Stach,Leeds United,eng Premier League,MF,included
+2009,Josip Stanišić,Bayern Munich,de Bundesliga,DF,included
+2013,Lucas Stassin,Sevilla,es La Liga,FW,included
+2014,Orri Steinn Óskarsson,Real Sociedad,es La Liga,FW,unmatched_identity
+2018,Angelo Stiller,Stuttgart,de Bundesliga,MF,included
+2021,Jørgen Strand Larsen,Crystal Palace,eng Premier League,FW,included
+2022,Elliot Stroud,Hull City,eng Premier League,MF,included
+2024,Nikola Štulić,Lecce,it Serie A,FW,included
+2025,Denis Suárez,Alavés,es La Liga,MF,included
+2026,Gabriel Suazo,Sevilla,es La Liga,DF,included
+2027,Luka Sučić,Real Sociedad,es La Liga,"MF,FW",included
+2028,Petar Sučić,Inter,it Serie A,MF,included
+2031,Pavel Šulc,Lyon,fr Ligue 1,"MF,FW",included
+2034,Josip Šutalo,Lazio,it Serie A,DF,included
+2035,Yuito Suzuki,Freiburg,de Bundesliga,MF,included
+2037,Daniel Svensson,Dortmund,de Bundesliga,"MF,DF",included
+2040,Williot Swedberg,Celta Vigo,es La Liga,FW,included
+2041,Lamine Sy,Auxerre,fr Ligue 1,"MF,DF",nationality_conflict
+2042,Dembo Sylla,Lorient,fr Ligue 1,"DF,MF",nationality_conflict
+2043,Moussa Sylla,Schalke 04,de Bundesliga,"FW,MF",nationality_conflict
+2045,Dominik Szoboszlai,Liverpool,eng Premier League,MF,included
+2046,Sebastian Szymański,Rennes,fr Ligue 1,MF,included
+2049,Musa Al-Taamari,Rennes,fr Ligue 1,"FW,MF",unmatched_identity
+2051,Jonathan Tah,Bayern Munich,de Bundesliga,DF,included
+2053,Montassar Talbi,Lorient,fr Ligue 1,DF,included
+2054,Ao Tanaka,Leeds United,eng Premier League,MF,included
+2055,Satoshi Tanaka,Schalke 04,de Bundesliga,MF,included
+2057,Christ Tapé,Toulouse,fr Ligue 1,DF,included
+2058,Edmond Tapsoba,Leverkusen,de Bundesliga,DF,included
+2060,James Tarkowski,Everton,eng Premier League,DF,included
+2061,César Tárrega,Valencia,es La Liga,DF,included
+2062,Nuno Tavares,Lazio,it Serie A,DF,included
+2063,Marcus Tavernier,Bournemouth,eng Premier League,MF,included
+2064,Kenneth Taylor,Lazio,it Serie A,MF,included
+2067,Aurélien Tchouaméni,Real Madrid,es La Liga,MF,included
+2068,Mathys Tel,Tottenham,eng Premier League,MF,included
+2070,Nahuel Tenaglia,Alavés,es La Liga,DF,included
+2071,Casper Tengstedt,Toulouse,fr Ligue 1,"FW,MF",included
+2072,Jano ter Horst,Paderborn 07,de Bundesliga,DF,included
+2074,Ramón Terrats,Getafe,es La Liga,"MF,FW",included
+2077,Tanner Tessmann,Lyon,fr Ligue 1,MF,included
+2080,Florian Thauvin,Lens,fr Ligue 1,MF,included
+2081,Arthur Theate,Bologna,it Serie A,DF,included
+2082,Igor Thiago,Brentford,eng Premier League,FW,included
+2084,Malick Thiaw,Newcastle,eng Premier League,DF,included
+2086,Bobby Thomas,Coventry City,eng Premier League,DF,included
+2087,Sorba Thomas,Hull City,eng Premier League,MF,included
+2088,Brandon Thomas-Asante,Coventry City,eng Premier League,"MF,FW",nationality_conflict
+2089,Adrien Thomasson,Rennes,fr Ligue 1,MF,included
+2090,Kristian Thorstvedt,Sassuolo,it Serie A,MF,included
+2091,Marcus Thuram,Inter,it Serie A,FW,included
+2092,Youri Tielemans,Manchester Utd,eng Premier League,MF,included
+2093,Phillip Tietz,Mainz 05,de Bundesliga,FW,included
+2094,Steffen Tigges,Paderborn 07,de Bundesliga,FW,included
+2097,Quinten Timber,Crystal Palace,eng Premier League,MF,included
+2100,Yassine Titraoui,Lens,fr Ligue 1,MF,unmatched_identity
+2102,Corentin Tolisso,Lyon,fr Ligue 1,MF,included
+2103,Jeremy Toljan,Levante,es La Liga,DF,included
+2107,Sandro Tonali,Tottenham,eng Premier League,MF,included
+2111,Ferran Torres,Paris SG,fr Ligue 1,FW,included
+2112,Pau Torres,Aston Villa,eng Premier League,DF,included
+2113,Lucas Torró,Osasuna,es La Liga,MF,included
+2114,Jordan Torunarigha,Hamburger SV,de Bundesliga,DF,included
+2116,Ahmed Touba,Le Havre,fr Ligue 1,DF,included
+2120,Souleymane Touré,Lorient,fr Ligue 1,DF,unmatched_identity
+2121,Lucas Tousart,Brest,fr Ligue 1,DF,included
+2125,Hamari Traoré,Paris FC,fr Ligue 1,DF,included
+2128,Philipp Treu,Freiburg,de Bundesliga,DF,included
+2130,Mariano Troilo,Parma,it Serie A,DF,current_source_exposure_mismatch
+2131,Adrien Truffert,Bournemouth,eng Premier League,DF,included
+2133,Heorhii Tsitaishvili,Rayo Vallecano,es La Liga,MF,unmatched_identity
+2134,Axel Tuanzebe,Auxerre,fr Ligue 1,DF,nationality_conflict
+2137,Beñat Turrientes,Real Sociedad,es La Liga,MF,included
+2140,Christos Tzolis,Arsenal,eng Premier League,MF,included
+2142,Matthieu Udol,Lens,fr Ligue 1,"MF,DF",included
+2144,Filip Ugrinic,Valencia,es La Liga,MF,included
+2145,Lukas Ullrich,Gladbach,de Bundesliga,"MF,DF",included
+2146,Lauren Ulrich,Paderborn 07,de Bundesliga,MF,unmatched_identity
+2147,Enes Ünal,Getafe,es La Liga,FW,included
+2148,Deniz Undav,Stuttgart,de Bundesliga,MF,included
+2149,Zento Uno,Gladbach,de Bundesliga,MF,included
+2150,Dayot Upamecano,Bayern Munich,de Bundesliga,DF,included
+2152,Robbie Ure,Sevilla,es La Liga,FW,included
+2153,Can Uzun,Frankfurt,de Bundesliga,MF,included
+2154,Josha Vagnoman,Stuttgart,de Bundesliga,"MF,DF",included
+2155,Victor Valdepeñas,Fiorentina,it Serie A,DF,unmatched_identity
+2157,Óscar Valentín,Rayo Vallecano,es La Liga,MF,included
+2158,Nicolás Valentini,Alavés,es La Liga,DF,included
+2159,Germán Valera,Elche,es La Liga,"DF,MF",included
+2160,Emanuele Valeri,Parma,it Serie A,"MF,DF",current_source_exposure_mismatch
+2161,Álex Valle,Como,it Serie A,DF,included
+2164,Federico Valverde,Real Madrid,es La Liga,"MF,DF",included
+2165,Zeno Van den Bosch,Union Berlin,de Bundesliga,DF,included
+2167,Virgil van Dijk,Liverpool,eng Premier League,DF,included
+2168,Vanderson,Monaco,fr Ligue 1,DF,included
+2170,Gustavo Varela,Monza,it Serie A,FW,included
+2172,Johan Vásquez,Genoa,it Serie A,DF,included
+2173,José Luis García Vayá,Valencia,es La Liga,"DF,MF",included
+2175,Jesus Vazquez,Valencia,es La Liga,DF,included
+2177,Joey Veerman,Dortmund,de Bundesliga,MF,included
+2178,Danilo Veiga,Lecce,it Serie A,"DF,MF",included
+2179,Renato Veiga,Villarreal,es La Liga,DF,included
+2180,Micky van de Ven,Tottenham,eng Premier League,DF,included
+2182,Jean Vercruysse,Le Mans,fr Ligue 1,MF,included
+2189,Iñigo Vicente,Racing Sant,es La Liga,MF,included
+2190,Gabriel Vidovic,Paderborn 07,de Bundesliga,"MF,FW",included
+2191,Fabio Vieira,Hamburger SV,de Bundesliga,"FW,MF",included
+2192,Viery,Fiorentina,it Serie A,DF,included
+2195,Gonzalo Villar,Elche,es La Liga,MF,included
+2196,Diego Villares,Dep. A Coruña,es La Liga,MF,included
+2199,Vitinha,Genoa,it Serie A,MF,included
+2200,Vitinha,Paris SG,fr Ligue 1,MF,included
+2204,Nikola Vlašić,Torino,it Serie A,"MF,FW",included
+2205,Mërgim Vojvoda,Udinese,it Serie A,MF,included
+2207,Alexis Vossah,Toulouse,fr Ligue 1,MF,included
+2208,Harold Voyer,Le Mans,fr Ligue 1,DF,nationality_conflict
+2210,Luka Vušković,Brighton,eng Premier League,DF,included
+2211,Elye Wahi,Nice,fr Ligue 1,FW,nationality_conflict
+2215,Aaron Wan-Bissaka,Aston Villa,eng Premier League,DF,included
+2216,Timothy Weah,Marseille,fr Ligue 1,DF,included
+2219,Wesley,Roma,it Serie A,MF,current_source_exposure_mismatch
+2220,Adam Wharton,Crystal Palace,eng Premier League,MF,included
+2221,Ben White,Arsenal,eng Premier League,DF,included
+2222,Samuel Wiafe,Genoa,it Serie A,MF,included
+2226,Iñaki Williams,Athletic Club,es La Liga,"FW,MF",included
+2227,Neco Williams,Nottingham,eng Premier League,MF,included
+2228,Nico Williams,Athletic Club,es La Liga,MF,included
+2230,Joe Willock,Newcastle,eng Premier League,MF,included
+2232,Harry Wilson,Leeds United,eng Premier League,MF,included
+2234,Harry Winks,Cagliari,it Serie A,MF,included
+2235,Florian Wirtz,Liverpool,eng Premier League,MF,included
+2236,Yoane Wissa,Newcastle,eng Premier League,"FW,MF",included
+2237,Axel Witsel,Nice,fr Ligue 1,MF,included
+2240,Marius Wolf,Augsburg,de Bundesliga,"MF,DF",included
+2242,Nick Woltemade,Juventus,it Serie A,FW,included
+2243,Jeong Woo-yeong,Union Berlin,de Bundesliga,"MF,FW",included
+2245,Granit Xhaka,Sunderland,eng Premier League,MF,included
+2246,Malick Yalcouye,Brighton,eng Premier League,MF,included
+2247,Lamine Yamal,Barcelona,es La Liga,"FW,MF",included
+2249,Yehor Yarmoliuk,Brentford,eng Premier League,MF,included
+2250,Gessime Yassine,Strasbourg,fr Ligue 1,"FW,MF",included
+2252,John Yeboah,Venezia,it Serie A,FW,included
+2256,Caleb Yirenkyi,Coventry City,eng Premier League,MF,included
+2258,Samuel Yohou,Le Mans,fr Ligue 1,DF,included
+2260,Leny Yoro,Manchester Utd,eng Premier League,DF,included
+2262,Illia Zabarnyi,Paris SG,fr Ligue 1,DF,included
+2264,Yassir Zabiri,Racing Sant,es La Liga,FW,included
+2265,Mattia Zaccagni,Lazio,it Serie A,FW,included
+2266,Warren Zaïre-Emery,Paris SG,fr Ligue 1,"DF,MF",included
+2267,Denis Zakaria,Monaco,fr Ligue 1,MF,included
+2269,Nicola Zalewski,Atalanta,it Serie A,"MF,FW",included
+2270,Nicolò Zaniolo,Udinese,it Serie A,MF,included
+2274,Davide Zappacosta,Atalanta,it Serie A,DF,included
+2275,Bryan Zaragoza,Espanyol,es La Liga,MF,included
+2281,Piotr Zieliński,Inter,it Serie A,MF,included
+2286,Nadir Zortea,Bologna,it Serie A,"MF,DF",included
+2289,Igor Zubeldia,Real Sociedad,es La Liga,DF,included
+2292,Martin Ødegaard,Arsenal,eng Premier League,MF,included
+2293,Leo Østigård,Genoa,it Serie A,DF,included

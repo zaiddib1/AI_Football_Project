@@ -1,0 +1,51 @@
+{
+  "signature": "8a8b72912eae3938ccd750b6b14c7fbe61fceb1c5c1f07d40f3f7c85f39529c3",
+  "model": "logistic",
+  "cohort_records": 1089,
+  "arms": {
+    "Baseline": {
+      "n_features": 12,
+      "n_holdout": 218,
+      "cv": {
+        "any_position_accuracy": 0.797979797979798,
+        "primary_accuracy": 0.7382920110192838,
+        "single_position_accuracy": 0.7569367369589345,
+        "mix_mae": 0.22165263013267136
+      },
+      "holdout": {
+        "any_position_accuracy": 0.8394495412844036,
+        "primary_accuracy": 0.7798165137614679,
+        "single_position_accuracy": 0.8,
+        "mix_mae": 0.21749301426514958
+      },
+      "convergence_warnings": 0
+    },
+    "Baseline + advanced": {
+      "n_features": 23,
+      "n_holdout": 218,
+      "cv": {
+        "any_position_accuracy": 0.8980716253443526,
+        "primary_accuracy": 0.8365472910927456,
+        "single_position_accuracy": 0.876803551609323,
+        "mix_mae": 0.14569948688105397
+      },
+      "holdout": {
+        "any_position_accuracy": 0.8944954128440367,
+        "primary_accuracy": 0.8348623853211009,
+        "single_position_accuracy": 0.8685714285714285,
+        "mix_mae": 0.15402058734617927
+      },
+      "convergence_warnings": 0
+    }
+  },
+  "versions": {
+    "scikit-learn": "1.9.1",
+    "numpy": "2.5.4",
+    "pandas": "3.1.1"
+  },
+  "split": {
+    "cv": "5-fold StratifiedGroupKFold, primary label stratification, player ID grouping, seed 42",
+    "holdout": "20% of player groups, seed 42"
+  },
+  "tuning": "None; predictors fixed before evaluation."
+}

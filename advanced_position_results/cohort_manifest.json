@@ -1,0 +1,64 @@
+{
+  "old_notebook_eligible": 1268,
+  "comparison_records": 1089,
+  "unique_players": 1088,
+  "multi_position_records": 188,
+  "source_filters": "Old labelled outfield cohort (90s >= 3), plus current Min >= 270",
+  "match_rule": "Unique exact normalized name alias, explicit club alias and league; nationality and age corroboration; current MP and Min must agree",
+  "match_status_counts": {
+    "included": 1089,
+    "unmatched_identity": 89,
+    "nationality_conflict": 66,
+    "current_source_exposure_mismatch": 22,
+    "fewer_than_270_current_minutes": 2
+  },
+  "primary_class_counts": {
+    "DF": 391,
+    "MF": 536,
+    "FW": 162
+  },
+  "baseline_features": [
+    "Sh_p90",
+    "SoT_p90",
+    "Gls_p90",
+    "Ast_p90",
+    "Crs_p90",
+    "Int_p90",
+    "TklW_p90",
+    "foulGiven_p90",
+    "foulCommitted_p90",
+    "Off_p90",
+    "CrdY_p90",
+    "Age"
+  ],
+  "advanced_features": [
+    "key_passes_p90",
+    "passes_p90",
+    "accurate_passes_p90",
+    "pass_completion_pct",
+    "long_balls_p90",
+    "successful_dribbles_p90",
+    "aerial_duels_won_p90",
+    "clearances_p90",
+    "blocks_p90",
+    "dispossessions_p90",
+    "poor_controls_p90"
+  ],
+  "inputs": {
+    "players_data-2026_2027.csv": "a404aac3864ef5a1e51b68af7d8e0b66bb5da505276977aca4c9411f53833b69",
+    "data/players_advanced_whoscored_2026_2027_totals.csv": "f879d39c29f7de67ab11ca6033832e233c27fdb88f8e8fccb96b85eb1efb1ac2",
+    "data/players_advanced_whoscored_2026_2027_per90.csv": "06a9b276cde57e6207168b7c946813000d627d0e2d1c40d60015493387c4a57f",
+    "data/position_comparison_sources/bundesliga_baseline.json": "9df822517af3342de75e358eac29bcaa68b3775b20e720697e2a8d8fadb76abc",
+    "data/position_comparison_sources/epl_baseline.json": "4fea2a3e41f33fde08db9117561c56788fa1c7cec7ea9308705b89f18e31b512",
+    "data/position_comparison_sources/laliga_baseline.json": "2a4f381d382034fb99be7992d39b7d07592432ff4f048d2ddaa1b7040157884a",
+    "data/position_comparison_sources/ligue1_baseline.json": "b9ee1502ed8aa1ad837c711a105e4cf4dabb4c101c3fe206e577c76871953e3a",
+    "data/position_comparison_sources/seriea_baseline.json": "e255327f76816abf6cb7b24a0e0d37ab2a27b5c4125492bf465e6883149ab9e2",
+    "data/whoscored_sources/epl_20261121T184011534025Z/raw_capture.json": "d2dcaa9368af6d6f8dbe7218a3f111aa89d91a7a1a2c7b5bc560ed748d895332",
+    "data/whoscored_sources/laliga_20261121T184049860263Z/raw_capture.json": "74eb15590d191c68ec8c8b94e804c386688b1e759d8d7b178f3fa68c9a4db0ff",
+    "data/whoscored_sources/bundesliga_20261121T184127120911Z/raw_capture.json": "e3e2145025554f60ef712fb0e551605739723331348644c4e3aa89195324cfd3",
+    "data/whoscored_sources/seriea_20261121T184229957221Z/raw_capture.json": "83ec7f002d23b2113b22e1bdef8a597fb11ef0e6499a3c50730222595f952656",
+    "data/whoscored_sources/ligue1_20261121T184307086040Z/raw_capture.json": "b6b6f193859f2375faca7e379ea005c6ed3ca7a56761873f299b6667733a3bf6"
+  },
+  "period_note": "Both numeric feature blocks use reconciled current WhoScored exposure. Official position labels are retained from the earlier CSV. No old numeric performance counters are used.",
+  "old_outputs_directly_comparable": false
+}

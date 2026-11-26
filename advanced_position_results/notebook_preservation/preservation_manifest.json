@@ -1,0 +1,38 @@
+{
+  "created_at_utc": "2026-11-22T02:45:54.084481+00:00",
+  "notebooks": [
+    {
+      "notebook": "position_linear_regression.ipynb",
+      "original_cells": 8,
+      "appended_cells": 7,
+      "original_sha256": "67c22081b6cb5e567accb8220e3ade98c21ff22b4ec0aec84ceca8775604551b",
+      "new_sha256": "c84f83c5fe6d2ed9025405b84e61c094a6b15f2c2927d754e83d38fdab60f1d9",
+      "backup": "/Users/dshi/VScode projects/FootballAIProject/AI_Football_Project/advanced_position_results/notebook_preservation/position_linear_regression__67c22081b6cb.ipynb",
+      "insertion_start_byte": 198066,
+      "inserted_bytes": 62156,
+      "original_bytes_recoverable": true
+    },
+    {
+      "notebook": "position_logistic_regression.ipynb",
+      "original_cells": 9,
+      "appended_cells": 7,
+      "original_sha256": "9f14f7c4834d40c483a05a2b39ca4d5ecd20c88ba2d27f14273882dbe97eaa00",
+      "new_sha256": "b67e676211bb6d7ecc5afd89a897712278b153d72b77ddcbf3913c0f427e5e00",
+      "backup": "/Users/dshi/VScode projects/FootballAIProject/AI_Football_Project/advanced_position_results/notebook_preservation/position_logistic_regression__9f14f7c4834d.ipynb",
+      "insertion_start_byte": 39177,
+      "inserted_bytes": 70701,
+      "original_bytes_recoverable": true
+    },
+    {
+      "notebook": "position_neural_network.ipynb",
+      "original_cells": 8,
+      "appended_cells": 7,
+      "original_sha256": "a5cfdf4fb6db161245b7c4c783160d925636ff447dac817d5b7c0002bd31aebd",
+      "new_sha256": "ac68496e8fe4724495dd1ad8a61ccc20a75d95c78c40890243dc0237dbe1ca6a",
+      "backup": "/Users/dshi/VScode projects/FootballAIProject/AI_Football_Project/advanced_position_results/notebook_preservation/position_neural_network__a5cfdf4fb6db.ipynb",
+      "insertion_start_byte": 70261,
+      "inserted_bytes": 71290,
+      "original_bytes_recoverable": true
+    }
+  ]
+}

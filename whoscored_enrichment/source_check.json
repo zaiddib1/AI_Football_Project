@@ -1,0 +1,49 @@
+{
+  "status": "collected_current_snapshot_not_merged_into_frozen_experiment",
+  "checked_on": "2026-11-21",
+  "local_dataset": {
+    "path": "data/players_data-2026_2027.csv",
+    "rows": 2295,
+    "columns": 102,
+    "sha256": "a404aac3864ef5a1e51b68af7d8e0b66bb5da505276977aca4c9411f53833b69",
+    "matched_cached_kaggle_version": 10,
+    "published_at_utc": "2026-11-02T08:18:27.330Z",
+    "last_included_match_date": null,
+    "season_as_described_by_publisher": "2026/2027",
+    "scope_as_described_by_publisher": "Five European domestic leagues"
+  },
+  "latest_kaggle_metadata": {
+    "version": 12,
+    "published_at_utc": "2026-11-16T10:54:35.770Z",
+    "cached_csv_sha256": "8f2702d4312986d694b5a5d94f51278cd263dba2664a7a9e51843d0c482a9e86",
+    "substituted_for_local_dataset": false
+  },
+  "whoscored_access_checks": [
+    {
+      "url": "https://www.whoscored.com/Statistics",
+      "method": "HTTP GET",
+      "status_code": 403,
+      "checked_on": "2026-11-19"
+    },
+    {
+      "url": "https://www.whoscored.com/Statistics",
+      "method": "Normal Chrome page navigation via Playwright",
+      "status_code": 403,
+      "page_title": "Attention Required! | Cloudflare",
+      "page_message": "Sorry, you have been blocked",
+      "checked_on": "2026-11-19"
+    },
+    {
+      "checked_on": "2026-11-21",
+      "method": "Visible Chrome, separate profile, normal league navigation and Detailed same-origin feed",
+      "successful": true,
+      "leagues_collected": 5,
+      "collection_manifest": "collection_manifest.json"
+    }
+  ],
+  "whoscored_season_tables_verified": true,
+  "whoscored_metric_units_verified": true,
+  "whoscored_values_imported": 0,
+  "original_datasets_modified": false,
+  "whoscored_rows_collected": 2326
+}

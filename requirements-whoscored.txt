@@ -1,0 +1,2 @@
+-r requirements-biometrics.txt
+playwright==1.65.2

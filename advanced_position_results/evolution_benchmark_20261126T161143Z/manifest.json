@@ -1,0 +1,36 @@
+{
+  "measured_at_utc": "2026-11-26T16:11:43.246225+00:00",
+  "cpu": "Apple M5",
+  "platform": "macOS-26.5.1-arm64-arm-64bit-Mach-O",
+  "python": "3.14.7",
+  "logical_cpus": 10,
+  "numerical_library_thread_limit": 1,
+  "repeats": 3,
+  "records": 1089,
+  "unique_players": 1088,
+  "timing_scope": "Uncached five cross-validation fits plus one 20% group-holdout fit; no downloading, matching, plotting, imports or cached-result loading.",
+  "evaluation_time_includes": "Model creation, training-label expansion, six pipeline fits, prediction, normalization and scoring.",
+  "protected_file_sha256": {
+    "/Users/dshi/VScode projects/FootballAIProject/AI_Football_Project/advanced_position_results/comparison_dataset.csv": "2e25c0d639a5384bb16e7cfebc2a8b98dfa587a4dd37f90d93c471ade4b3a42e",
+    "/Users/dshi/VScode projects/FootballAIProject/AI_Football_Project/position_neural_network.ipynb": "ac68496e8fe4724495dd1ad8a61ccc20a75d95c78c40890243dc0237dbe1ca6a",
+    "/Users/dshi/VScode projects/FootballAIProject/AI_Football_Project/position_linear_regression.ipynb": "c84f83c5fe6d2ed9025405b84e61c094a6b15f2c2927d754e83d38fdab60f1d9",
+    "/Users/dshi/VScode projects/FootballAIProject/AI_Football_Project/position_logistic_regression.ipynb": "b67e676211bb6d7ecc5afd89a897712278b153d72b77ddcbf3913c0f427e5e00",
+    "/Users/dshi/VScode projects/FootballAIProject/AI_Football_Project/advanced_position_results/logistic/results.json": "703276f8f34148b978bd51c73625770d713758fe22094cffb334decd56d7dfe9",
+    "/Users/dshi/VScode projects/FootballAIProject/AI_Football_Project/advanced_position_results/linear/results.json": "73e3c94091ba11ce30db7b9c382884dc7010f6fe7df8ca806710d49a8fe96c5c",
+    "/Users/dshi/VScode projects/FootballAIProject/AI_Football_Project/advanced_position_results/neural/results.json": "3a292ba5190c5dedb363082771fde100e5a0e7d1b94ebe1abd809f7a542126cb"
+  },
+  "protected_files_unchanged": true,
+  "versions": {
+    "numpy": "2.5.4",
+    "pandas": "3.1.1",
+    "scikit-learn": "1.9.1"
+  },
+  "benchmark_script_sha256": "4dfdf9c23d0cfe1ebbe50b352b7201dfa3818e1432b8acd943f62801c85e6e71",
+  "executed_script": "benchmark_script_as_run.py",
+  "configuration_note": "max_iter=0 means not applicable to LinearRegression. LogisticRegression used the pipeline cap of 2000; the original no-override placeholder was corrected in CSV metadata after timing. Timing and accuracy values were not changed.",
+  "results_sha256": {
+    "timing_repeats.csv": "38951fa18bfd556628a0dbabbbd48718a4a298cecc27bdbe5da52ef73bbd7306",
+    "fit_details.csv": "7fa73b7e9793e9bd0b717847b03e7096100f539bce5f90cf069810c7661425f7",
+    "summary.csv": "bba409e25f429de63282a7fee77af72177cd64f2a6e1fb99e426433faa43f7bc"
+  }
+}
